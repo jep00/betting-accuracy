@@ -1,2 +1,3 @@
-# betting-accuracy
-My final year BSc project: Assessing the Accuracy of Betting Odds in European Football
+# Assessing the Accuracy of Betting Odds in European Football
+My final year BSc project: Assessing the Accuracy of Betting Odds in European Football.  I'll upload all the files once my grade has been finalised: I use R for my coding, using a range of statistical techniques (IDA, EDA, Correlation Analysis, PCA, etc.), graphical tools (ggplot2) and simulate a random betting strategy for a certain number of runs, creating plots). <br>
+The assessment was 80% write-up (I wrote mine using LaTeX), 10% presentation (my .pdf files for the presentation will be uploaded, but not a video of it), and 10% project management (incl. the submission of two drafts, one in January and one in March: these will be uploaded, too).
