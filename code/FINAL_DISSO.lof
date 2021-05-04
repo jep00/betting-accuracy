@@ -1,0 +1,97 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Histograms of the consensus probabilities for each outcome, in the French Ligue Une, 2016/17 season.\relax }}{22}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Boxplots of the consensus probabilities offered for each outcome.\relax }}{25}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Density plots of the consensus probabilities offered for each outcome in the 1X2 market.\relax }}{25}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Density plots of the consensus probabilities offered for each outcome of the 1X2 market, split by league.\relax }}{27}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Tile plot of the correct consensus probability for each possible result.\relax }}{28}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Scatter plot of the linear models created, showing the consensus probabilities vs. the observed probabilities.\relax }}{31}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.7}{\ignorespaces The variation of $R^2$, RMSE, $P_1$, $P_2$, and Slope over time in the \textit {elite} leagues data.\relax }}{37}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.8}{\ignorespaces By-League PCA figures.\relax }}{39}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.9}{\ignorespaces By-Season PCA figures.\relax }}{42}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Density plots of the consensus probabilities offered in the 1X2, UO, and AH markets.\relax }}{47}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces The AH handicap vs. the consensus probability of a Home Win, split by level.\relax }}{48}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces The AH handicap vs. the consensus probabilities of both a Home Win and Away Win.\relax }}{49}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Tile plot of the correct 1X2 probability vs. the full-time result.\relax }}{50}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Tile plot of the correct UO probability vs. the full-time result.\relax }}{50}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Count plot of the home handicap offered vs. the consensus probability of over 2.5 goals.\relax }}{51}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Count plot of the expected vs. actual goal difference.\relax }}{51}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Consensus vs. observed probabilities on the English \& Scottish data, 1X2 market.\relax }}{54}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Consensus vs. observed probabilities on the English \& Scottish data, Under/Over 2.5 Goals market.\relax }}{54}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Consensus vs. observed probabilities on the English \& Scottish data, Asian Handicap market.\relax }}{54}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Plots of consensus vs. observed probabilities, English \& Scottish data, Level 1.\relax }}{56}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Plots of consensus vs. observed probabilities, English \& Scottish data, Level 2.\relax }}{57}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Plots of consensus vs. observed probabilities, English \& Scottish data, Level 3.\relax }}{57}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.14}{\ignorespaces The variation of $R^2$, RMSE, $P_1$, $P_2$, and the Slope over time in the English \& Scottish leagues data\relax }}{60}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.15}{\ignorespaces The overround in the 1X2 market vs. $\mathbb {P}_{\textrm {cons}}$(1X2 Home Win), split by level.\relax }}{63}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.16}{\ignorespaces The overround in the 1X2 market vs. $\mathbb {P}_{\textrm {cons}}$(1X2 Home Win), split by season.\relax }}{63}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.17}{\ignorespaces The overround in the UO market vs. $\mathbb {P}_{\textrm {cons}}$(Over 2.5 Goals), split by level.\relax }}{64}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.18}{\ignorespaces The overround in the UO market vs. $\mathbb {P}_{\textrm {cons}}$(Over 2.5 Goals), split by season.\relax }}{64}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.19}{\ignorespaces The overround in the AH market vs. $\mathbb {P}_{\textrm {cons}}$(AH Home Win), split by level.\relax }}{65}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.20}{\ignorespaces The overround in the AH market vs. $\mathbb {P}_{\textrm {cons}}$(AH Home Win), split by season.\relax }}{65}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.1}{\ignorespaces A plot of the cumulative winnings of the proposed betting algorithm, split by market.\relax }}{74}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces A zoomed in view of Figure\nobreakspace {}4.1\hbox {}, considering the first 100 matches.\relax }}{75}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces A line graph of the winnings of the random bet strategy in the 1X2 Home Win market, compared to the proposed algorithm and the \textit {alternate} method.\relax }}{77}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces A line graph of the winnings of the random bet strategy in the 1X2 Away Win market, compared to the proposed algorithm and the \textit {alternate} method.\relax }}{77}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.5}{\ignorespaces A line graph of the winnings of the random bet strategy in the AH Home Win market, compared to the proposed algorithm and the \textit {alternate} method.\relax }}{78}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.6}{\ignorespaces A line graph of the winnings of the random bet strategy in the AH Away Win market, compared to the proposed algorithm and the \textit {alternate} method.\relax }}{78}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }

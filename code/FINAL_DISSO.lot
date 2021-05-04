@@ -1,0 +1,79 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {1.1}{\ignorespaces The UEFA Country Coefficient for the top six European leagues \autocite {UefaCoeffs}.\relax }}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {1.2}{\ignorespaces The English \& Scottish football league pyramids \autocite {EngLeagues, ScoLeagues}.\relax }}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {1.3}{\ignorespaces Columns from \lstinline |football-data.co.uk|'s datasets used in this project.\relax }}{18}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {2.1}{\ignorespaces Basic calculations for the French Ligue Une, 2016/17 season, forming part of the initial data analysis.\relax }}{21}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {2.2}{\ignorespaces Basic calculations for the entire \textit {elite} dataset, forming part of the exploratory data analysis.\relax }}{24}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {2.3}{\ignorespaces Matches with consensus probability of a Draw, $\mathbb {P}_{\textrm {cons}}(\textrm {Draw})>0.6$\relax }}{26}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {2.4}{\ignorespaces The bin size for each tile in Figure\nobreakspace {}2.5\hbox {}.\relax }}{28}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {2.5}{\ignorespaces $R^2$, RMSE, and Slope values for the \textit {elite} leagues, 2005--20.\relax }}{30}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {2.6}{\ignorespaces The standard error SE of the linear model created for each outcome.\relax }}{32}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {2.7}{\ignorespaces $P_1$ and $P_2$ values for the entire \textit {elite} dataset.\relax }}{32}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {2.8}{\ignorespaces $R^2$, RMSE, $P_1$, $P_2$, and Slope for all \textit {elite} leagues.\relax }}{33}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {2.9}{\ignorespaces Competitive balance statistics for a range of European leagues, across the 1963/64--2004/05 Seasons \autocite {Goossens05}.\relax }}{35}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {2.10}{\ignorespaces $R^2$, RMSE, $P_1$, $P_2$, and Slope for the \textit {elite} league data, split by season.\relax }}{36}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {2.11}{\ignorespaces By-League PCA values.\relax }}{39}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {2.12}{\ignorespaces By-Season PCA values.\relax }}{41}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {3.1}{\ignorespaces Basic calculations for the entire English \& Scottish data, forming part of the exploratory data analysis.\relax }}{46}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {3.2}{\ignorespaces The bin size for each tile of Figures\nobreakspace {}3.4\hbox {} and 3.5\hbox {}.\relax }}{49}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {3.3}{\ignorespaces Linear models to predict the observed outcome $\mathfrak {O}$ from a given bookmaker consensus probability $\mathfrak {C}$ using the English \& Scottish data.\relax }}{52}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {3.4}{\ignorespaces Values for $R^2$, RMSE, and Slope for the markets of interest, based on the models in Table\nobreakspace {}3.3\hbox {}.\relax }}{52}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {3.5}{\ignorespaces $R^2$, RMSE, $P_1$, $P_2$, and Slope values for the 1X2, UO, and AH markets across all three levels.\relax }}{55}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {3.6}{\ignorespaces Statistics for accuracy across each market, by season. \relax }}{59}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {3.7}{\ignorespaces The mean overround $\mathaccentV {bar}016{\eta }$ for different groups of the data.\relax }}{61}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {4.1}{\ignorespaces The total number of bets placed, in units, across each market in the proposed algorithm.\relax }}{69}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {4.2}{\ignorespaces The proposed betting algorithm's winnings and accuracy.\relax }}{73}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {4.3}{\ignorespaces The \textit {alternate} betting model winnings and accuracy, with comparisons against values in Table\nobreakspace {}4.2\hbox {}.\relax }}{73}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {4.4}{\ignorespaces Average values from 10 runs of the random bet strategy winnings and accuracy, with comparisons against values in Table\nobreakspace {}4.2\hbox {}.\relax }}{76}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }

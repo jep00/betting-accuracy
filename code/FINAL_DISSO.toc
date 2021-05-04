@@ -1,0 +1,125 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {0.1}Abstract}{1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {0.2}Disclaimer}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Background Information}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.1}Football in Europe}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.2}Probabilities, Odds, and Gambling}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.3}Betting Markets of Interest}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Literature Review}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Rationale, Aims, Objectives and Methods}{17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.1}R Packages Used}{17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.2}The Data}{18}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Sourcing the data}{18}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Data Storage}{18}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}Structure}{19}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}\textit {Elite} European Leagues, 2005--20}{20}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Initial Data Analysis}{20}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Exploratory Data Analysis}{23}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Correlation Analysis and Linear Model Creation}{29}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Measuring Predictive Performance}{32}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Comparing Leagues}{32}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.6}The Effect of Competitive Balance on Bookmaker Accuracy}{34}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.1}Defining Competitive Balance}{34}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.2}Quantifying Competitive Balance}{34}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.7}Comparing Seasons}{36}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.8}Principal Component Analysis}{37}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.8.1}Choosing Which Components to Keep}{37}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.8.2}By-League Principal Component Analysis}{38}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Component Retention}{39}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Interpretation}{39}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.8.3}By-Season Principal Component Analysis}{41}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Component Retention}{42}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Interpretation}{42}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.9}Conclusion}{43}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}English \& Scottish Leagues, 2005--20}{44}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Exploratory Data Analysis}{44}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Correlation Analysis}{52}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Comparing Levels}{55}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Comparing Seasons}{58}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}The Overround}{61}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}Conclusion}{66}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}A Proposed Betting Algorithm}{67}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}The Algorithm}{67}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.1}Motivation}{70}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.2}Alternate Method}{70}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Computing the Winnings}{71}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Results}{73}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Comparison Against a Random Bet Strategy}{75}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}Conclusion}{79}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Conclusion}{80}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Findings, Strengths, and Limitations}{80}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Challenges}{83}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Appendices}{90}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Definitions}{91}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.1}Mathematical and Statistical}{91}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.2}Gambling Terms}{92}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {B}Chapter 2 Code}{94}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {C}Chapter 3 Code}{106}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {D}Chapter 4 Code}{124}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {E}Random Bet Strategy Runs}{136}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {F}Project Diary}{138}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {G}Word Count}{143}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {H}Ethical Approval Certificate}{144}

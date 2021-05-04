@@ -1,0 +1,2812 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nyt/global//global/global}
+  \entry{Ader08}{inbook}{}
+    \name{author}{1}{}{%
+      {{hash=AHJ}{%
+         family={Adèr},
+         familyi={A\bibinitperiod},
+         given={Herman\bibnamedelima J.},
+         giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AHJ1}
+    \strng{fullhash}{AHJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{year}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{booktitle}{{Advising on Research Methods: A consultant's companion}}
+    \field{chapter}{14}
+    \field{pages}{333\bibrangedash 357}
+    \field{title}{Phases and initial steps in data analysis}
+    \field{year}{2008}
+  \endentry
+
+  \entry{deloitte20}{online}{}
+    \name{author}{4}{}{%
+      {{hash=AT}{%
+         family={Ajadi},
+         familyi={A\bibinitperiod},
+         given={Theo},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=AT}{%
+         family={Ambler},
+         familyi={A\bibinitperiod},
+         given={Tom},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=UZ}{%
+         family={Udwadia},
+         familyi={U\bibinitperiod},
+         given={Zal},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=WC}{%
+         family={Wood},
+         familyi={W\bibinitperiod},
+         given={Chris},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Sports Buisness Group (Deloitte)}%
+    }
+    \strng{namehash}{AT+1}
+    \strng{fullhash}{ATATUZWC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{year}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{Home truths: {Annual Review of Football Finance 2020}}
+    \verb{url}
+    \verb https://www2.deloitte.com/content/dam/Deloitte/uk/Documents/sports-bu
+    \verb siness-group/deloitte-uk-annual-review-of-football-finance-2020.pdf
+    \endverb
+    \field{year}{2020}
+    \field{urlday}{25}
+    \field{urlmonth}{03}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{alto19}{online}{}
+    \name{author}{1}{}{%
+      {{hash=AV}{%
+         family={Alto},
+         familyi={A\bibinitperiod},
+         given={Valentina},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AV1}
+    \strng{fullhash}{AV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{year}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{{PCA: Eigenvectors and Eigenvalues}}
+    \verb{url}
+    \verb https://towardsdatascience.com/pca-eigenvectors-and-eigenvalues-1f968
+    \verb bc6777a
+    \endverb
+    \field{journaltitle}{{Towards Data Science}}
+    \field{year}{2019}
+    \field{urlday}{24}
+    \field{urlmonth}{03}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{Dsm5}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{American Psychiatric Association}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A1}
+    \strng{fullhash}{A1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{year}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{booktitle}{{Diagnostic and Statistical Manual of Mental Disorders
+  (5th Edition)}}
+    \field{title}{{DSM­5 Diagnostic Criteria: Gambling Disorder}}
+    \field{year}{2018}
+  \endentry
+
+  \entry{angelini19}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AG}{%
+         family={Angelini},
+         familyi={A\bibinitperiod},
+         given={Giovanni},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=DAL}{%
+         family={De\bibnamedelima Angelis},
+         familyi={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+         given={Luca},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{AGDAL1}
+    \strng{fullhash}{AGDAL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{year}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{2}
+    \field{pages}{712\bibrangedash 721}
+    \field{title}{Efficiency of online football betting markets}
+    \field{volume}{35}
+    \field{journaltitle}{International Journal of Forecasting}
+    \field{year}{2019}
+  \endentry
+
+  \entry{gridExtraPackage}{manual}{}
+    \name{author}{1}{}{%
+      {{hash=AB}{%
+         family={Auguie},
+         familyi={A\bibinitperiod},
+         given={Baptiste},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AB1}
+    \strng{fullhash}{AB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{year}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{note}{R package version 2.3}
+    \field{title}{gridExtra: Miscellaneous Functions for "Grid" Graphics}
+    \verb{url}
+    \verb https://CRAN.R-project.org/package=gridExtra
+    \endverb
+    \field{year}{2017}
+  \endentry
+
+  \entry{NFLsalary}{online}{}
+    \name{author}{1}{}{%
+      {{hash=BT}{%
+         family={Barrabi},
+         familyi={B\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BT1}
+    \strng{fullhash}{BT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{year}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{How does {NFL}'s salary cap work?}
+    \verb{url}
+    \verb https://www.foxbusiness.com/sports/nfl-salary-cap-rules-explained
+    \endverb
+    \field{journaltitle}{{FOXBusiness}}
+    \field{year}{2020}
+    \field{urlday}{21}
+    \field{urlmonth}{03}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{Bet365Markets}{online}{}
+    \name{author}{1}{}{%
+      {{hash=b}{%
+         family={bet365},
+         familyi={b\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{b1}
+    \strng{fullhash}{b1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{n.d.}
+    \field{labeldatesource}{year}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Help: Soccer}
+    \verb{url}
+    \verb https://help.bet365.com/product-help/sports/Rules/Soccer
+    \endverb
+    \field{year}{n.d.}
+    \field{urlday}{12}
+    \field{urlmonth}{01}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{bet365revenue}{online}{}
+    \name{author}{1}{}{%
+      {{hash=b}{%
+         family={{bet365 Group Limited}},
+         familyi={b\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{b2}
+    \strng{fullhash}{b2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{year}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{{Report and Financial Statements}}
+    \verb{url}
+    \verb https://find-and-update.company-information.service.gov.uk/company/04
+    \verb 241161/filing-history/MzI1MjIzNDU1MGFkaXF6a2N4/document?format=pdf
+    \endverb
+    \field{year}{2019}
+    \field{urlday}{13}
+    \field{urlmonth}{04}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{bosca09}{article}{}
+    \name{author}{4}{}{%
+      {{hash=BJE}{%
+         family={Bosc{\'a}},
+         familyi={B\bibinitperiod},
+         given={Jos{\'e}\bibnamedelima E},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=LV}{%
+         family={Liern},
+         familyi={L\bibinitperiod},
+         given={Vicente},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Mart{\'\i}nez},
+         familyi={M\bibinitperiod},
+         given={Aurelio},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Sala},
+         familyi={S\bibinitperiod},
+         given={Ram{\'o}n},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{BJE+1}
+    \strng{fullhash}{BJELVMASR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{year}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{1}
+    \field{pages}{63\bibrangedash 78}
+    \field{title}{Increasing offensive or defensive efficiency? An analysis of
+  {I}talian and {S}panish football}
+    \field{volume}{37}
+    \field{journaltitle}{Omega}
+    \field{year}{2009}
+  \endentry
+
+  \entry{FootballDataNotes}{online}{}
+    \name{author}{1}{}{%
+      {{hash=BJ}{%
+         family={Buchdahl},
+         familyi={B\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BJ1}
+    \strng{fullhash}{BJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{n.d.}
+    \field{extradate}{1}
+    \field{labeldatesource}{year}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{{Notes for Football Data}}
+    \verb{url}
+    \verb http://www.football-data.co.uk/notes.txt
+    \endverb
+    \field{year}{n.d.}
+    \field{urlday}{02}
+    \field{urlmonth}{10}
+    \field{urlyear}{2020}
+  \endentry
+
+  \entry{BuchdahlAbout}{online}{}
+    \name{author}{1}{}{%
+      {{hash=BJ}{%
+         family={Buchdahl},
+         familyi={B\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Pinnacle}%
+    }
+    \strng{namehash}{BJ1}
+    \strng{fullhash}{BJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{n.d.}
+    \field{extradate}{2}
+    \field{labeldatesource}{year}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{{Pinnacle Betting Expert and Author: Joseph Buchdahl}}
+    \verb{url}
+    \verb https://www.pinnacle.com/en/betting-resources/author/Joseph-Buchdahl
+    \endverb
+    \field{year}{n.d.}
+    \field{urlday}{08}
+    \field{urlmonth}{01}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{FootballDataAbout}{online}{}
+    \name{author}{1}{}{%
+      {{hash=BJ}{%
+         family={Buchdahl},
+         familyi={B\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Football Data}%
+    }
+    \strng{namehash}{BJ1}
+    \strng{fullhash}{BJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{n.d.}
+    \field{extradate}{3}
+    \field{labeldatesource}{year}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{{What is Football-Data?}}
+    \verb{url}
+    \verb http://football-data.co.uk/#intro
+    \endverb
+    \field{year}{n.d.}
+    \field{urlday}{08}
+    \field{urlmonth}{01}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{cain00}{article}{}
+    \name{author}{4}{}{%
+      {{hash=CM}{%
+         family={Cain},
+         familyi={C\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LD}{%
+         family={Law},
+         familyi={L\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=D}{%
+         family={David},
+         familyi={D\bibinitperiod},
+      }}%
+      {{hash=P}{%
+         family={Peel},
+         familyi={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{CM+1}
+    \strng{fullhash}{CMLDDP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{1}
+    \field{pages}{25\bibrangedash 36}
+    \field{title}{The favourite-longshot bias and market efficiency in UK
+  football betting}
+    \field{volume}{47}
+    \field{journaltitle}{Scottish Journal of Political Economy}
+    \field{year}{2000}
+  \endentry
+
+  \entry{CompetitiveBalance}{online}{}
+    \name{editor}{1}{}{%
+      {{hash=C}{%
+         family={{Cambridge Dictionary}},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{n.d.}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{{COMPETITIVE BALANCE | definition in the Cambridge English
+  Dictionary}}
+    \verb{url}
+    \verb https://dictionary.cambridge.org/us/dictionary/english/competitive-ba
+    \verb lance
+    \endverb
+    \field{year}{n.d.}
+    \field{urlday}{12}
+    \field{urlmonth}{01}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{cave15}{online}{}
+    \name{author}{1}{}{%
+      {{hash=CR}{%
+         family={Cave},
+         familyi={C\bibinitperiod},
+         given={Rob},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CR1}
+    \strng{fullhash}{CR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Banned from the bookies}
+    \verb{url}
+    \verb https://www.bbc.co.uk/news/business-34550617
+    \endverb
+    \field{journaltitle}{BBC News}
+    \field{year}{2015}
+    \field{urlday}{13}
+    \field{urlmonth}{04}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{lineofbestfit}{online}{}
+    \name{author}{1}{}{%
+      {{hash=CJ}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CJ1}
+    \strng{fullhash}{CJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Line {O}f {B}est {F}it}
+    \verb{url}
+    \verb https://www.investopedia.com/terms/l/line-of-best-fit.asp
+    \endverb
+    \field{journaltitle}{Investopedia}
+    \field{year}{2020}
+    \field{urlday}{06}
+    \field{urlmonth}{04}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{OxfordMathsDict}{book}{}
+    \name{author}{2}{}{%
+      {{hash=CC}{%
+         family={Clapham},
+         familyi={C\bibinitperiod},
+         given={Christopher},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=NJ}{%
+         family={Nicholson},
+         familyi={N\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{CCNJ1}
+    \strng{fullhash}{CCNJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{{Oxford Concise Dictionary of Mathematics. 5th Edition}}
+    \field{year}{2014}
+  \endentry
+
+  \entry{EplFinance17}{online}{}
+    \name{author}{1}{}{%
+      {{hash=CD}{%
+         family={Conn},
+         familyi={C\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CD1}
+    \strng{fullhash}{CD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{{Premier League finances: the full club-by-club breakdown and
+  verdict}}
+    \verb{url}
+    \verb https://www.theguardian.com/football/2017/jun/01/premier-league-finan
+    \verb ces-club-by-club
+    \endverb
+    \field{journaltitle}{The Guardian}
+    \field{year}{2017}
+    \field{urlday}{12}
+    \field{urlmonth}{01}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{constantinou20}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CA}{%
+         family={Constantinou},
+         familyi={C\bibinitperiod},
+         given={Anthony},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CA1}
+    \strng{fullhash}{CA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \verb{eprint}
+    \verb 2003.09384
+    \endverb
+    \field{title}{Asian Handicap football betting with Rating-based Hybrid
+  Bayesian Networks}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{stat.AP}
+    \field{year}{2020}
+  \endentry
+
+  \entry{cortis15}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CD}{%
+         family={Cortis},
+         familyi={C\bibinitperiod},
+         given={Dominic},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CD2}
+    \strng{fullhash}{CD2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 14}
+    \field{title}{Expected values and variances in bookmaker payouts: A
+  theoretical approach towards setting limits on odds}
+    \field{volume}{9}
+    \field{journaltitle}{The Journal of Prediction Markets}
+    \field{year}{2015}
+  \endentry
+
+  \entry{AmericanOdds19}{online}{}
+    \name{author}{1}{}{%
+      {{hash=CB}{%
+         family={Cronin},
+         familyi={C\bibinitperiod},
+         given={Benjamin},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Pinnacle}%
+    }
+    \strng{namehash}{CB1}
+    \strng{fullhash}{CB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{{American odds vs. Decimal odds}}
+    \verb{url}
+    \verb https://www.pinnacle.com/en/betting-articles/educational/odds-formats
+    \verb -available-at-pinnacle-sports/ZWSJD9PPX69V3YXZ
+    \endverb
+    \field{year}{2019}
+    \field{urlday}{08}
+    \field{urlmonth}{01}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{Davey20}{online}{}
+    \name{author}{1}{}{%
+      {{hash=DJ}{%
+         family={Davey},
+         familyi={D\bibinitperiod},
+         given={Jacob},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DJ1}
+    \strng{fullhash}{DJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{year}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{{Why It’s Time We Ban Betting Sponsors in English
+  Football}}
+    \verb{url}
+    \verb https://versus.uk.com/2020/07/time-ban-betting-sponsors-english-footb
+    \verb all/
+    \endverb
+    \field{journaltitle}{Versus}
+    \field{year}{2020}
+    \field{urlday}{15}
+    \field{urlmonth}{02}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{davies21}{online}{}
+    \name{author}{1}{}{%
+      {{hash=DR}{%
+         family={Davies},
+         familyi={D\bibinitperiod},
+         given={Rob},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DR1}
+    \strng{fullhash}{DR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{year}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{{UK betting companies report profits in 2020 as US market
+  opens up}}
+    \verb{url}
+    \verb https://www.theguardian.com/society/2021/mar/04/uk-betting-companies-
+    \verb report-profits-in-2020-as-us-market-opens-up
+    \endverb
+    \field{journaltitle}{The Guardian}
+    \field{year}{2021}
+    \field{urlday}{13}
+    \field{urlmonth}{04}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{kerneldensity}{online}{}
+    \name{author}{1}{}{%
+      {{hash=D}{%
+         family={{DeepAI}},
+         familyi={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{D1}
+    \strng{fullhash}{D1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{n.d.}
+    \field{labeldatesource}{year}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{{Kernel Density Estimation Definition}}
+    \verb{url}
+    \verb https://deepai.org/machine-learning-glossary-and-terms/kernel-density
+    \verb -estimation
+    \endverb
+    \field{year}{n.d.}
+    \field{urlday}{06}
+    \field{urlmonth}{04}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{dixon97}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DMJ}{%
+         family={Dixon},
+         familyi={D\bibinitperiod},
+         given={Mark\bibnamedelima J},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=CSG}{%
+         family={Coles},
+         familyi={C\bibinitperiod},
+         given={Stuart\bibnamedelima G},
+         giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{DMJCSG1}
+    \strng{fullhash}{DMJCSG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1997}
+    \field{labeldatesource}{year}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{2}
+    \field{pages}{265\bibrangedash 280}
+    \field{title}{Modelling association football scores and inefficiencies in
+  the football betting market}
+    \field{volume}{46}
+    \field{journaltitle}{Journal of the Royal Statistical Society: Series C
+  (Applied Statistics)}
+    \field{year}{1997}
+  \endentry
+
+  \entry{Draper98}{book}{}
+    \name{author}{2}{}{%
+      {{hash=DNR}{%
+         family={Draper},
+         familyi={D\bibinitperiod},
+         given={Norman\bibnamedelima R.},
+         giveni={N\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=SH}{%
+         family={Smith},
+         familyi={S\bibinitperiod},
+         given={Harry},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {John Wiley \& Sons, New York}%
+    }
+    \strng{namehash}{DNRSH1}
+    \strng{fullhash}{DNRSH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1998}
+    \field{labeldatesource}{year}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{{Applied Regression Analysis. 3rd Edition}}
+    \field{year}{1998}
+  \endentry
+
+  \entry{EngLeagues}{online}{}
+    \name{author}{1}{}{%
+      {{hash=E}{%
+         family={{English Football League}},
+         familyi={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{E1}
+    \strng{fullhash}{E1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{n.d.}
+    \field{labeldatesource}{year}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{title}{{EFL Regulations, Section 3 - The League}}
+    \verb{url}
+    \verb https://www.efl.com/-more/governance/efl-rules--regulations/section-3
+    \verb ---the-league/
+    \endverb
+    \field{year}{n.d.}
+    \field{urlday}{25}
+    \field{urlmonth}{03}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{fabrigar99}{article}{}
+    \name{author}{4}{}{%
+      {{hash=FLR}{%
+         family={Fabrigar},
+         familyi={F\bibinitperiod},
+         given={Leandre\bibnamedelima R},
+         giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=WDT}{%
+         family={Wegener},
+         familyi={W\bibinitperiod},
+         given={Duane\bibnamedelima T},
+         giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=MRC}{%
+         family={MacCallum},
+         familyi={M\bibinitperiod},
+         given={Robert\bibnamedelima C},
+         giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=SEJ}{%
+         family={Strahan},
+         familyi={S\bibinitperiod},
+         given={Erin\bibnamedelima J},
+         giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Psychological Association}%
+    }
+    \strng{namehash}{FLR+1}
+    \strng{fullhash}{FLRWDTMRCSEJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{year}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{number}{3}
+    \field{pages}{272}
+    \field{title}{Evaluating the use of exploratory factor analysis in
+  psychological research.}
+    \field{volume}{4}
+    \field{journaltitle}{Psychological methods}
+    \field{year}{1999}
+  \endentry
+
+  \entry{FifaSurvey01}{online}{}
+    \name{author}{1}{}{%
+      {{hash=F}{%
+         family={FIFA.com},
+         familyi={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{F1}
+    \strng{fullhash}{F1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{labeldatesource}{year}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{{FIFA Survey: approximately 250 million footballers
+  worldwide}}
+    \verb{url}
+    \verb https://www.fifa.com/who-we-are/news/fifa-survey-approximately-250-mi
+    \verb llion-footballers-worldwide-88048
+    \endverb
+    \field{year}{2001}
+    \field{urlday}{12}
+    \field{urlmonth}{01}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{flutter}{online}{}
+    \name{author}{1}{}{%
+      {{hash=F}{%
+         family={{Flutter Entertainment, plc.}},
+         familyi={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{F2}
+    \strng{fullhash}{F2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{year}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{{2019 Annual Report and Accounts}}
+    \verb{url}
+    \verb https://www.flutter.com/sites/paddy-power-betfair/files/Annual%20repo
+    \verb rts/2019-annual-report-28-02-20.pdf
+    \endverb
+    \field{year}{2020}
+    \field{urlday}{13}
+    \field{urlmonth}{04}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{xgoals2}{online}{}
+    \name{author}{1}{}{%
+      {{hash=f}{%
+         family={{footballxg.com}},
+         familyi={f\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{f1}
+    \strng{fullhash}{f1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{n.d.}
+    \field{labeldatesource}{year}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{{What are Expected Goals (xG)?}}
+    \verb{url}
+    \verb https://footballxg.com/what{\_}are{\_}expected{\_}goals/
+    \endverb
+    \field{year}{n.d.}
+    \field{urlday}{24}
+    \field{urlmonth}{04}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{carPackage}{book}{}
+    \name{author}{2}{}{%
+      {{hash=FJ}{%
+         family={Fox},
+         familyi={F\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WS}{%
+         family={Weisberg},
+         familyi={W\bibinitperiod},
+         given={Sanford},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Sage}%
+    }
+    \strng{namehash}{FJWS1}
+    \strng{fullhash}{FJWS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{year}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{edition}{Third}
+    \field{title}{An {R} Companion to Applied Regression}
+    \verb{url}
+    \verb https://socialsciences.mcmaster.ca/jfox/Books/Companion/
+    \endverb
+    \list{location}{1}{%
+      {Thousand Oaks {CA}}%
+    }
+    \field{year}{2019}
+  \endentry
+
+  \entry{Giulianotti12}{inbook}{}
+    \name{author}{1}{}{%
+      {{hash=GR}{%
+         family={Giulianotti},
+         familyi={G\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Cancer Society}%
+    }
+    \strng{namehash}{GR1}
+    \strng{fullhash}{GR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{year}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{booktitle}{{The Wiley-Blackwell Encyclopedia of Globalization}}
+    \field{title}{Football}
+    \field{year}{2012}
+  \endentry
+
+  \entry{catania}{online}{}
+    \name{author}{1}{}{%
+      {{hash=GB}{%
+         family={Gladwell},
+         familyi={G\bibinitperiod},
+         given={Ben},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GB1}
+    \strng{fullhash}{GB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{year}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{Catania president arrested in relation to match-fixing
+  investigation}
+    \verb{url}
+    \verb https://www.espn.com/soccer/italian-serie-b/story/2502122/catania-pre
+    \verb sident-arrested-in-relation-to-match-fixing
+    \endverb
+    \field{journaltitle}{ESPN}
+    \field{year}{2015}
+    \field{urlday}{24}
+    \field{urlmonth}{04}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{MLSsalary}{online}{}
+    \name{author}{1}{}{%
+      {{hash=G}{%
+         family={{Goal}},
+         familyi={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{G1}
+    \strng{fullhash}{G1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{year}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{{What is the MLS salary cap \& how much are U.S. soccer
+  players paid?}}
+    \verb{url}
+    \verb https://www.goal.com/en-us/news/mls-salary-cap-how-much-us-soccer-pla
+    \verb yers-paid/q015j4su3gb31bha41zto4fkb
+    \endverb
+    \field{year}{2019}
+    \field{urlday}{21}
+    \field{urlmonth}{03}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{godin14}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=GF}{%
+         family={Godin},
+         familyi={G\bibinitperiod},
+         given={Fr{\'e}deric},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=ZJ}{%
+         family={Zuallaert},
+         familyi={Z\bibinitperiod},
+         given={Jasper},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=VB}{%
+         family={Vandersmissen},
+         familyi={V\bibinitperiod},
+         given={Baptist},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=DNW}{%
+         family={De\bibnamedelima Neve},
+         familyi={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+         given={Wesley},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=VdWR}{%
+         prefix={Van\bibnamedelima de},
+         prefixi={V\bibinitperiod\bibinitdelim d\bibinitperiod},
+         family={Walle},
+         familyi={W\bibinitperiod},
+         given={Rik},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GF+1}
+    \strng{fullhash}{GFZJVBDNWWRVd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{year}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{booktitle}{Workshop on Large-Scale Sports Analytics (KDD 2014), New
+  York, USA}
+    \field{title}{Beating the bookmakers: leveraging statistics and Twitter
+  microposts for predicting soccer results}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Goossens05}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GK}{%
+         family={Goossens},
+         familyi={G\bibinitperiod},
+         given={Kelly},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of Antwerp, Research Administration}%
+    }
+    \strng{namehash}{GK1}
+    \strng{fullhash}{GK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{year}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{Competitive Balance in European Football: Comparison by
+  adapting measures: National Measure of Seasonal Imbalance and Top3}
+    \field{year}{2005}
+  \endentry
+
+  \entry{Grinstead12}{book}{}
+    \name{author}{2}{}{%
+      {{hash=GCM}{%
+         family={Grinstead},
+         familyi={G\bibinitperiod},
+         given={Charles\bibnamedelima Miller},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=SJL}{%
+         family={Snell},
+         familyi={S\bibinitperiod},
+         given={James\bibnamedelima Laurie},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Mathematical Soc.}%
+    }
+    \strng{namehash}{GCMSJL1}
+    \strng{fullhash}{GCMSJL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{year}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{Introduction to probability}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Calciopoli}{online}{}
+    \name{author}{1}{}{%
+      {{hash=HS}{%
+         family={Hafez},
+         familyi={H\bibinitperiod},
+         given={Shamoon},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HS1}
+    \strng{fullhash}{HS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{year}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{{Calciopoli: The scandal that rocked Italy and left Juventus
+  in Serie B}}
+    \verb{url}
+    \verb https://www.bbc.co.uk/sport/football/49910626
+    \endverb
+    \field{journaltitle}{BBC News}
+    \field{year}{2019}
+    \field{urlday}{07}
+    \field{urlmonth}{01}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{Hoaglin77}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=HDC}{%
+         family={Hoaglin},
+         familyi={H\bibinitperiod},
+         given={David\bibnamedelima C.},
+         giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=RJR}{%
+         family={Rice},
+         familyi={R\bibinitperiod},
+         given={John\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Academic Press}%
+    }
+    \strng{namehash}{HDC1}
+    \strng{fullhash}{HDC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1977}
+    \field{labeldatesource}{year}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{booktitle}{{Mathematical Software}}
+    \verb{doi}
+    \verb https://doi.org/10.1016/B978-0-12-587260-7.50010-8
+    \endverb
+    \field{isbn}{978-0-12-587260-7}
+    \field{pages}{139\bibrangedash 159}
+    \field{title}{{Mathematical Software and Exploratory Data Analysis}}
+    \field{year}{1977}
+  \endentry
+
+  \entry{HoaglinWelsch78}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HDC}{%
+         family={Hoaglin},
+         familyi={H\bibinitperiod},
+         given={David\bibnamedelima C.},
+         giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=WRE}{%
+         family={Welsch},
+         familyi={W\bibinitperiod},
+         given={Roy\bibnamedelima E.},
+         giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {[American Statistical Association, Taylor \& Francis, Ltd.]}%
+    }
+    \strng{namehash}{HDCWRE1}
+    \strng{fullhash}{HDCWRE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1978}
+    \field{labeldatesource}{year}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{1}
+    \field{pages}{17\bibrangedash 22}
+    \field{title}{The Hat Matrix in Regression and ANOVA}
+    \field{volume}{32}
+    \field{journaltitle}{The American Statistician}
+    \field{year}{1978}
+  \endentry
+
+  \entry{Hyndman06}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HR}{%
+         family={Hyndman},
+         familyi={H\bibinitperiod},
+         given={Rob},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Koehler},
+         familyi={K\bibinitperiod},
+         given={Anne},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HRKA1}
+    \strng{fullhash}{HRKA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{labeldatesource}{year}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \verb{doi}
+    \verb 10.1016/j.ijforecast.2006.03.001
+    \endverb
+    \field{pages}{679\bibrangedash 688}
+    \field{title}{Another look at measures of forecast accuracy}
+    \field{volume}{22}
+    \field{journaltitle}{{International Journal of Forecasting}}
+    \field{year}{2006}
+  \endentry
+
+  \entry{jolliffe72}{article}{}
+    \name{author}{1}{}{%
+      {{hash=JIT}{%
+         family={Jolliffe},
+         familyi={J\bibinitperiod},
+         given={Ian\bibnamedelima T},
+         giveni={I\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{JIT1}
+    \strng{fullhash}{JIT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1972}
+    \field{labeldatesource}{year}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{number}{2}
+    \field{pages}{160\bibrangedash 173}
+    \field{title}{Discarding variables in a principal component analysis. I:
+  Artificial data}
+    \field{volume}{21}
+    \field{journaltitle}{Journal of the Royal Statistical Society: Series C
+  (Applied Statistics)}
+    \field{year}{1972}
+  \endentry
+
+  \entry{kaiser74}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KHF}{%
+         family={Kaiser},
+         familyi={K\bibinitperiod},
+         given={Henry\bibnamedelima F},
+         giveni={H\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{KHF1}
+    \strng{fullhash}{KHF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1974}
+    \field{labeldatesource}{year}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{1}
+    \field{pages}{31\bibrangedash 36}
+    \field{title}{An index of factorial simplicity}
+    \field{volume}{39}
+    \field{journaltitle}{Psychometrika}
+    \field{year}{1974}
+  \endentry
+
+  \entry{karlis09}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KD}{%
+         family={Karlis},
+         familyi={K\bibinitperiod},
+         given={Dimitris},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=NI}{%
+         family={Ntzoufras},
+         familyi={N\bibinitperiod},
+         given={Ioannis},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{KDNI1}
+    \strng{fullhash}{KDNI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{year}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{2}
+    \field{pages}{133\bibrangedash 145}
+    \field{title}{Bayesian modelling of football outcomes: using the Skellam's
+  distribution for the goal difference}
+    \field{volume}{20}
+    \field{journaltitle}{IMA Journal of Management Mathematics}
+    \field{year}{2009}
+  \endentry
+
+  \entry{kaunitz17}{article}{}
+    \name{author}{3}{}{%
+      {{hash=KL}{%
+         family={Kaunitz},
+         familyi={K\bibinitperiod},
+         given={Lisandro},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=ZS}{%
+         family={Zhong},
+         familyi={Z\bibinitperiod},
+         given={Shenjun},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KJ}{%
+         family={Kreiner},
+         familyi={K\bibinitperiod},
+         given={Javier},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KLZSKJ1}
+    \strng{fullhash}{KLZSKJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{year}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{Beating the bookies with their own numbers - and how the
+  online sports betting market is rigged}
+    \field{journaltitle}{arXiv preprint arXiv:1710.02824}
+    \field{year}{2017}
+  \endentry
+
+  \entry{kelly21}{online}{}
+    \name{author}{1}{}{%
+      {{hash=KR}{%
+         family={Kelly},
+         familyi={K\bibinitperiod},
+         given={Ryan},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KR1}
+    \strng{fullhash}{KR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{year}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{{Who are the Premier League 'big six'? Top English clubs \&
+  nickname explained}}
+    \verb{url}
+    \verb https://www.goal.com/en-gb/news/who-are-premier-league-big-six-top-en
+    \verb glish-clubs-nickname/130iokmi8t8dt1k3kudou73s1k
+    \endverb
+    \field{journaltitle}{Goal}
+    \field{year}{2021}
+    \field{urlday}{15}
+    \field{urlmonth}{04}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{khazaal12}{article}{}
+    \true{moreauthor}
+    \name{author}{10}{}{%
+      {{hash=KY}{%
+         family={Khazaal},
+         familyi={K\bibinitperiod},
+         given={Yasser},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=CA}{%
+         family={Chatton},
+         familyi={C\bibinitperiod},
+         given={Anne},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Billieux},
+         familyi={B\bibinitperiod},
+         given={Jo{\"e}l},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BL}{%
+         family={Bizzini},
+         familyi={B\bibinitperiod},
+         given={Lucio},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=MG}{%
+         family={Monney},
+         familyi={M\bibinitperiod},
+         given={Gr{\'e}goire},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=FE}{%
+         family={Fresard},
+         familyi={F\bibinitperiod},
+         given={Emmanuelle},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=TG}{%
+         family={Thorens},
+         familyi={T\bibinitperiod},
+         given={Gabriel},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=BG}{%
+         family={Bondolfi},
+         familyi={B\bibinitperiod},
+         given={Guido},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=EGN}{%
+         family={El-Guebaly},
+         familyi={E\bibinitperiod-G\bibinitperiod},
+         given={Nady},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=ZD}{%
+         family={Zullino},
+         familyi={Z\bibinitperiod},
+         given={Daniele},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {BioMed Central}%
+    }
+    \strng{namehash}{KY+1}
+    \strng{fullhash}{KYCABJBLMGFETGBGEGNZD+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{year}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 6}
+    \field{title}{Effects of expertise on football betting}
+    \field{volume}{7}
+    \field{journaltitle}{Substance abuse treatment, prevention, and policy}
+    \field{year}{2012}
+  \endentry
+
+  \entry{knuth06}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KKH}{%
+         family={Knuth},
+         familyi={K\bibinitperiod},
+         given={Kevin\bibnamedelima H.},
+         giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KKH1}
+    \strng{fullhash}{KKH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{labeldatesource}{year}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{Optimal data-based binning for histograms}
+    \field{journaltitle}{arXiv preprint physics/0605197}
+    \field{year}{2006}
+  \endentry
+
+  \entry{kuypers00}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KT}{%
+         family={Kuypers},
+         familyi={K\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Taylor \& Francis}%
+    }
+    \strng{namehash}{KT1}
+    \strng{fullhash}{KT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{labeldatesource}{year}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{11}
+    \field{pages}{1353\bibrangedash 1363}
+    \field{title}{Information and efficiency: an empirical study of a fixed
+  odds betting market}
+    \field{volume}{32}
+    \field{journaltitle}{Applied Economics}
+    \field{year}{2000}
+  \endentry
+
+  \entry{BundesligaFinance20}{online}{}
+    \name{author}{1}{}{%
+      {{hash=LD}{%
+         family={Lange},
+         familyi={L\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LD1}
+    \strng{fullhash}{LD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{year}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{{T}eams of the {G}erman {B}undesliga ranked by market
+  (transfer) value of players in 2020}
+    \verb{url}
+    \verb https://www.statista.com/statistics/283033/market-value-teams-german-
+    \verb football-bundesliga/#statisticContainer
+    \endverb
+    \field{journaltitle}{Statista}
+    \field{year}{2020}
+    \field{urlday}{12}
+    \field{urlmonth}{01}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{eplfinances2019}{online}{}
+    \name{author}{1}{}{%
+      {{hash=LD}{%
+         family={Lange},
+         familyi={L\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LD1}
+    \strng{fullhash}{LD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{year}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{{Average player salary in the EPL 2019/20, by team}}
+    \verb{url}
+    \verb https://www.statista.com/statistics/675303/average-epl-salary-by-team
+    \verb /
+    \endverb
+    \field{journaltitle}{Statista}
+    \field{year}{2021}
+    \field{urlday}{24}
+    \field{urlmonth}{04}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{levitt04}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LSD}{%
+         family={Levitt},
+         familyi={L\bibinitperiod},
+         given={Steven\bibnamedelima D},
+         giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press Oxford, UK}%
+    }
+    \strng{namehash}{LSD1}
+    \strng{fullhash}{LSD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2004}
+    \field{labeldatesource}{year}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{number}{495}
+    \field{pages}{223\bibrangedash 246}
+    \field{title}{Why are gambling markets organised so differently from
+  financial markets?}
+    \field{volume}{114}
+    \field{journaltitle}{The Economic Journal}
+    \field{year}{2004}
+  \endentry
+
+  \entry{prem1920}{online}{}
+    \name{author}{1}{}{%
+      {{hash=LTFAPL}{%
+         family={Limited},
+         familyi={L\bibinitperiod},
+         given={The Football Association Premier\bibnamedelima League},
+         giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod A\bibinitperiod
+  P\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LTFAPL1}
+    \strng{fullhash}{LTFAPL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{year}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{Premier League Football Scores, Results \& Season Archives}
+    \verb{url}
+    \verb https://www.premierleague.com/results?co=1{\&}se=274{\&}cl=1
+    \endverb
+    \field{year}{2020}
+    \field{urlday}{24}
+    \field{urlmonth}{04}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{Lorenz05}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LMO}{%
+         family={Lorenz},
+         familyi={L\bibinitperiod},
+         given={M.\bibnamedelima O.},
+         giveni={M\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Statistical Association, Taylor \& Francis, Ltd.}%
+    }
+    \strng{namehash}{LMO1}
+    \strng{fullhash}{LMO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1905}
+    \field{labeldatesource}{year}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{number}{70}
+    \field{pages}{209\bibrangedash 219}
+    \field{title}{{Methods of Measuring the Concentration of Wealth}}
+    \field{volume}{9}
+    \field{journaltitle}{Publications of the American Statistical Association}
+    \field{year}{1905}
+  \endentry
+
+  \entry{ma11}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MS}{%
+         family={Ma},
+         familyi={M\bibinitperiod},
+         given={Shuangge},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=DY}{%
+         family={Dai},
+         familyi={D\bibinitperiod},
+         given={Ying},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{MSDY1}
+    \strng{fullhash}{MSDY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{year}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{6}
+    \field{pages}{714\bibrangedash 722}
+    \field{title}{Principal component analysis based methods in bioinformatics
+  studies}
+    \field{volume}{12}
+    \field{journaltitle}{Briefings in bioinformatics}
+    \field{year}{2011}
+  \endentry
+
+  \entry{overround}{online}{}
+    \name{author}{1}{}{%
+      {{hash=M}{%
+         family={MatterOfStats},
+         familyi={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{M1}
+    \strng{fullhash}{M1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{n.d.}
+    \field{labeldatesource}{year}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{What is {Vig} and {Overround}}
+    \verb{url}
+    \verb http://www.matterofstats.com/what-is-vig-and-overround/
+    \endverb
+    \field{year}{n.d.}
+    \field{urlday}{06}
+    \field{urlmonth}{04}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{Mendenhall13}{book}{}
+    \name{author}{3}{}{%
+      {{hash=MW}{%
+         family={Mendenhall},
+         familyi={M\bibinitperiod},
+         given={William},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=BRJ}{%
+         family={Beaver},
+         familyi={B\bibinitperiod},
+         given={Robert\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BBM}{%
+         family={Beaver},
+         familyi={B\bibinitperiod},
+         given={Barbara\bibnamedelima M.},
+         giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Brooks/Cole}%
+    }
+    \strng{namehash}{MWBRJBBM1}
+    \strng{fullhash}{MWBRJBBM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{year}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{{Introduction to Probability and Statistics (14th Edition)}}
+    \field{year}{2013}
+  \endentry
+
+  \entry{e1071Package}{manual}{}
+    \name{author}{5}{}{%
+      {{hash=MD}{%
+         family={Meyer},
+         familyi={M\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=DE}{%
+         family={Dimitriadou},
+         familyi={D\bibinitperiod},
+         given={Evgenia},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=HK}{%
+         family={Hornik},
+         familyi={H\bibinitperiod},
+         given={Kurt},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=WA}{%
+         family={Weingessel},
+         familyi={W\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LF}{%
+         family={Leisch},
+         familyi={L\bibinitperiod},
+         given={Friedrich},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MD+1}
+    \strng{fullhash}{MDDEHKWALF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{year}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{note}{R package version 1.7-4}
+    \field{title}{e1071: Misc Functions of the Department of Statistics,
+  Probability Theory Group (Formerly: E1071), TU Wien}
+    \verb{url}
+    \verb https://CRAN.R-project.org/package=e1071
+    \endverb
+    \field{year}{2020}
+  \endentry
+
+  \entry{morris88}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MJA}{%
+         family={Morris},
+         familyi={M\bibinitperiod},
+         given={Julie\bibnamedelima A},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=GMJ}{%
+         family={Gardner},
+         familyi={G\bibinitperiod},
+         given={Martin\bibnamedelima J},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {BMJ Publishing Group}%
+    }
+    \strng{namehash}{MJAGMJ1}
+    \strng{fullhash}{MJAGMJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1988}
+    \field{labeldatesource}{year}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{6632}
+    \field{pages}{1313}
+    \field{title}{Statistics in medicine: Calculating confidence intervals for
+  relative risks (odds ratios) and standardised ratios and rates}
+    \field{volume}{296}
+    \field{journaltitle}{British medical journal (Clinical research ed.)}
+    \field{year}{1988}
+  \endentry
+
+  \entry{NBAsalary}{online}{}
+    \name{author}{1}{}{%
+      {{hash=N}{%
+         family={{NBA.com}},
+         familyi={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{N1}
+    \strng{fullhash}{N1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{year}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{title}{{NBA Salary Cap set at \$109.14 million for 2019-20}}
+    \verb{url}
+    \verb https://www.nba.com/news/nba-salary-cap-2019-20-season-set-10914-mill
+    \verb ion
+    \endverb
+    \field{year}{2020}
+    \field{urlday}{21}
+    \field{urlmonth}{03}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{osborne15}{online}{}
+    \name{author}{1}{}{%
+      {{hash=OS}{%
+         family={Osborne},
+         familyi={O\bibinitperiod},
+         given={Samuel},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OS1}
+    \strng{fullhash}{OS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{year}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{title}{Bookmakers 'refusing to take bets from successful gamblers'}
+    \verb{url}
+    \verb https://www.independent.co.uk/news/uk/home-news/bookmakers-refusing-t
+    \verb ake-bets-successful-gamblers-a6698756.html
+    \endverb
+    \field{journaltitle}{The Independent}
+    \field{year}{2015}
+    \field{urlday}{13}
+    \field{urlmonth}{04}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{Owen09}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=OA}{%
+         family={Owen},
+         familyi={O\bibinitperiod},
+         given={Alun},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=oMTI}{%
+         prefix={of},
+         prefixi={o\bibinitperiod},
+         family={Mathematics},
+         familyi={M\bibinitperiod},
+         given={The\bibnamedelima Institute},
+         giveni={T\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=iAI}{%
+         prefix={its},
+         prefixi={i\bibinitperiod},
+         family={Applications\bibnamedelima (IMA)},
+         familyi={A\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OA1}
+    \strng{fullhash}{OA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{year}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{booktitle}{2nd International Conference on Mathematics in Sport (IMA
+  Sport 2009)}
+    \field{title}{Dynamic bayesian forecasting models of football match
+  outcomes}
+    \field{venue}{Groningen, The Netherlands}
+    \field{year}{2009}
+  \endentry
+
+  \entry{pearson1901}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PK}{%
+         family={Pearson},
+         familyi={P\bibinitperiod},
+         given={Karl},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Taylor \& Francis}%
+    }
+    \strng{namehash}{PK1}
+    \strng{fullhash}{PK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1901}
+    \field{labeldatesource}{year}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{11}
+    \field{pages}{559\bibrangedash 572}
+    \field{title}{{LIII. On lines and planes of closest fit to systems of
+  points in space}}
+    \field{volume}{2}
+    \field{journaltitle}{The London, Edinburgh, and Dublin Philosophical
+  Magazine and Journal of Science}
+    \field{year}{1901}
+  \endentry
+
+  \entry{countPlots}{online}{}
+    \name{author}{1}{}{%
+      {{hash=P}{%
+         family={Plotly.com},
+         familyi={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{P1}
+    \strng{fullhash}{P1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{n.d.}
+    \field{labeldatesource}{year}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{{geom count in ggplot2}}
+    \verb{url}
+    \verb https://plotly.com/ggplot2/geom{\_}count/
+    \endverb
+    \field{year}{n.d.}
+    \field{urlday}{28}
+    \field{urlmonth}{03}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{rProgram}{manual}{}
+    \name{author}{1}{}{%
+      {{hash=R}{%
+         family={{R Core Team}},
+         familyi={R\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {R Foundation for Statistical Computing}%
+    }
+    \strng{namehash}{R1}
+    \strng{fullhash}{R1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{year}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{R: A Language and Environment for Statistical Computing}
+    \verb{url}
+    \verb https://www.R-project.org/
+    \endverb
+    \list{location}{1}{%
+      {Vienna, Austria}%
+    }
+    \field{year}{2021}
+  \endentry
+
+  \entry{ramchandani12}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RG}{%
+         family={Ramchandani},
+         familyi={R\bibinitperiod},
+         given={Girish},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Taylor \& Francis}%
+    }
+    \strng{namehash}{RG1}
+    \strng{fullhash}{RG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{year}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{2}
+    \field{pages}{346\bibrangedash 360}
+    \field{title}{Competitiveness of the English Premier League (1992-2010) and
+  ten European football leagues (2010)}
+    \field{volume}{12}
+    \field{journaltitle}{International Journal of Performance Analysis in
+  Sport}
+    \field{year}{2012}
+  \endentry
+
+  \entry{xgoals}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RA}{%
+         family={Rathke},
+         familyi={R\bibinitperiod},
+         given={Alex},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Universidad de Alicante}%
+    }
+    \strng{namehash}{RA1}
+    \strng{fullhash}{RA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{year}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{2}
+    \field{pages}{514\bibrangedash 529}
+    \field{title}{An examination of expected goals and shot efficiency in
+  soccer}
+    \field{volume}{12}
+    \field{journaltitle}{Journal of Human Sport and Exercise}
+    \field{year}{2017}
+  \endentry
+
+  \entry{cutdocumentation}{online}{}
+    \name{author}{1}{}{%
+      {{hash=R}{%
+         family={{RDocumentation}},
+         familyi={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{R2}
+    \strng{fullhash}{R2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{n.d.}
+    \field{labeldatesource}{year}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{{cut: Convert Numeric to Factor}}
+    \verb{url}
+    \verb https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/cu
+    \verb t
+    \endverb
+    \field{year}{n.d.}
+    \field{urlday}{21}
+    \field{urlmonth}{03}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{NHLsalary}{online}{}
+    \name{author}{1}{}{%
+      {{hash=RD}{%
+         family={Rosen},
+         familyi={R\bibinitperiod},
+         given={Dan},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RD1}
+    \strng{fullhash}{RD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{year}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{{NHL} salary cap to remain same next season}
+    \verb{url}
+    \verb https://www.nhl.com/news/nhl-salary-cap-to-remain-at-815-million/c-31
+    \verb 7372082
+    \endverb
+    \field{journaltitle}{{NHL.com}}
+    \field{year}{2020}
+    \field{urlday}{21}
+    \field{urlmonth}{03}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{Rottenberg56}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RS}{%
+         family={Rottenberg},
+         familyi={R\bibinitperiod},
+         given={Simon},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RS1}
+    \strng{fullhash}{RS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1956}
+    \field{labeldatesource}{year}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \verb{doi}
+    \verb 10.1086/257790
+    \endverb
+    \field{number}{3}
+    \field{pages}{242\bibrangedash 258}
+    \field{title}{{The Baseball Players' Labor Market}}
+    \field{volume}{64}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1956}
+  \endentry
+
+  \entry{LaLigaSponsors}{online}{}
+    \name{editor}{2}{}{%
+      {{hash=S}{%
+         family={Score},
+         familyi={S\bibinitperiod},
+      }}%
+      {{hash=C}{%
+         family={Change},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SC1}
+    \strng{fullhash}{SC1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{year}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{{Overview of the 2019/2020 La Liga sponsors}}
+    \verb{url}
+    \verb https://www.scoreandchange.com/overview-2019-2020-la-liga-sponsors/
+    \endverb
+    \field{year}{2020}
+    \field{urlday}{15}
+    \field{urlmonth}{02}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{ScoLeagues}{online}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={{Scottish Professional Football League}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S1}
+    \strng{fullhash}{S1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{year}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{{The Rules and Regulations of the Scottish Professional
+  Football League}}
+    \verb{url}
+    \verb https://spfl.co.uk/admin/filemanager/images/shares/pdfs/SPFL%20Rules%
+    \verb 20and%20Regulations%2016-Mar-21%20(MASTER%20COPY)%20CLEAN.pdf
+    \endverb
+    \field{year}{2021}
+    \field{urlday}{25}
+    \field{urlmonth}{03}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{MLBsalary}{online}{}
+    \name{author}{1}{}{%
+      {{hash=SP}{%
+         family={Slowinski},
+         familyi={S\bibinitperiod},
+         given={Piper},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SP1}
+    \strng{fullhash}{SP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{year}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{{Luxury Tax}}
+    \verb{url}
+    \verb https://library.fangraphs.com/business/luxury-tax/
+    \endverb
+    \field{journaltitle}{{FanGraphs Baseball}}
+    \field{year}{2012}
+    \field{urlday}{21}
+    \field{urlmonth}{03}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{DisgraceofGijon}{online}{}
+    \name{author}{1}{}{%
+      {{hash=SR}{%
+         family={Smyth},
+         familyi={S\bibinitperiod},
+         given={Rob},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SR1}
+    \strng{fullhash}{SR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{year}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{{World Cup stunning moments: West Germany 1-0 Austria in
+  1982}}
+    \verb{url}
+    \verb https://www.theguardian.com/football/blog/2014/feb/25/world-cup-25-st
+    \verb unning-moments-no3-germany-austria-1982-rob-smyth
+    \endverb
+    \field{journaltitle}{The Guardian}
+    \field{year}{2018}
+    \field{urlday}{07}
+    \field{urlmonth}{01}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{strumbelj10}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SE}{%
+         family={{\v{S}}trumbelj},
+         familyi={{\v{S}}\bibinitperiod},
+         given={E},
+         giveni={E},
+      }}%
+      {{hash=SMR}{%
+         family={{\v{S}}ikonja},
+         familyi={{\v{S}}\bibinitperiod},
+         given={M\bibnamedelima Robnik},
+         giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{SESMR1}
+    \strng{fullhash}{SESMR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{year}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{3}
+    \field{pages}{482\bibrangedash 488}
+    \field{title}{Online bookmakers’ odds as forecasts: The case of European
+  soccer leagues}
+    \field{volume}{26}
+    \field{journaltitle}{International Journal of Forecasting}
+    \field{year}{2010}
+  \endentry
+
+  \entry{Strumbelj14}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SE}{%
+         family={{\v{S}}trumbelj},
+         familyi={{\v{S}}\bibinitperiod},
+         given={Erik},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{SE1}
+    \strng{fullhash}{SE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{year}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{4}
+    \field{pages}{934\bibrangedash 943}
+    \field{title}{On determining probability forecasts from betting odds}
+    \field{volume}{30}
+    \field{journaltitle}{International journal of forecasting}
+    \field{year}{2014}
+  \endentry
+
+  \entry{symonds20}{online}{}
+    \name{author}{1}{}{%
+      {{hash=ST}{%
+         family={Symonds},
+         familyi={S\bibinitperiod},
+         given={Tom},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ST1}
+    \strng{fullhash}{ST1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{year}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{{Man denied £1.7m payout by Betfred takes fight to High
+  Court}}
+    \verb{url}
+    \verb https://www.bbc.co.uk/news/uk-54564536
+    \endverb
+    \field{journaltitle}{BBC News}
+    \field{year}{2020}
+    \field{urlday}{13}
+    \field{urlmonth}{04}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{PremierLeagueHandbook}{reference}{}
+    \name{editor}{1}{}{%
+      {{hash=T}{%
+         family={{The Football Association Premier League Limited}},
+         familyi={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{T1}
+    \strng{fullhash}{T1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{year}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{{Premier League Handbook, Season 2019/20}}
+    \field{year}{2019}
+  \endentry
+
+  \entry{GiniWorldCoeffs18}{online}{}
+    \name{author}{1}{}{%
+      {{hash=T}{%
+         family={{The World Bank}},
+         familyi={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{T2}
+    \strng{fullhash}{T2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{year}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{{Gini index (World Bank estimate}}
+    \verb{url}
+    \verb https://data.worldbank.org/indicator/SI.POV.GINI?view=map
+    \endverb
+    \field{year}{2018}
+    \field{urlday}{12}
+    \field{urlmonth}{01}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{UefaCoeffs}{online}{}
+    \name{author}{1}{}{%
+      {{hash=U}{%
+         family={UEFA.com},
+         familyi={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{U1}
+    \strng{fullhash}{U1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{n.d.}
+    \field{extradate}{1}
+    \field{labeldatesource}{year}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \field{title}{{Country Coefficients}}
+    \verb{url}
+    \verb https://www.uefa.com/memberassociations/uefarankings/country/#/yr/202
+    \verb 1
+    \endverb
+    \field{year}{n.d.}
+    \field{urlday}{05}
+    \field{urlmonth}{01}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{UefaMembers}{online}{}
+    \name{author}{1}{}{%
+      {{hash=U}{%
+         family={UEFA.com},
+         familyi={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{U1}
+    \strng{fullhash}{U1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{n.d.}
+    \field{extradate}{2}
+    \field{labeldatesource}{year}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \field{title}{{Member associations}}
+    \verb{url}
+    \verb https://www.uefa.com/insideuefa/member-associations/
+    \endverb
+    \field{year}{n.d.}
+    \field{urlday}{18}
+    \field{urlmonth}{01}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{massPackage}{book}{}
+    \name{author}{2}{}{%
+      {{hash=VWN}{%
+         family={Venables},
+         familyi={V\bibinitperiod},
+         given={W.\bibnamedelima N.},
+         giveni={W\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=RBD}{%
+         family={Ripley},
+         familyi={R\bibinitperiod},
+         given={B.\bibnamedelima D.},
+         giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{VWNRBD1}
+    \strng{fullhash}{VWNRBD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2002}
+    \field{labeldatesource}{year}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{edition}{Fourth}
+    \field{note}{ISBN 0-387-95457-0}
+    \field{title}{Modern Applied Statistics with S}
+    \verb{url}
+    \verb https://www.stats.ox.ac.uk/pub/MASS4/
+    \endverb
+    \list{location}{1}{%
+      {New York}%
+    }
+    \field{year}{2002}
+  \endentry
+
+  \entry{reflection}{online}{}
+    \name{author}{1}{}{%
+      {{hash=WEW}{%
+         family={Weisstein},
+         familyi={W\bibinitperiod},
+         given={Eric\bibnamedelima W.},
+         giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WEW1}
+    \strng{fullhash}{WEW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{n.d.}
+    \field{labeldatesource}{year}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{Reflection}
+    \verb{url}
+    \verb https://mathworld.wolfram.com/Reflection.html
+    \endverb
+    \field{journaltitle}{MathWorld--A Wolfram Web Resource}
+    \field{year}{n.d.}
+    \field{urlday}{28}
+    \field{urlmonth}{03}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{maevrmse}{online}{}
+    \name{author}{1}{}{%
+      {{hash=WJ}{%
+         family={Wesner},
+         familyi={W\bibinitperiod},
+         given={Janet},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WJ1}
+    \strng{fullhash}{WJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{year}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{{MAE and RMSE — Which Metric is Better?}}
+    \verb{url}
+    \verb https://medium.com/human-in-a-machine-world/mae-and-rmse-which-metric
+    \verb -is-better-e60ac3bde13d
+    \endverb
+    \field{journaltitle}{Human in a Machine World}
+    \field{year}{2016}
+    \field{urlday}{21}
+    \field{urlmonth}{04}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{ggplot2Package}{book}{}
+    \name{author}{1}{}{%
+      {{hash=WH}{%
+         family={Wickham},
+         familyi={W\bibinitperiod},
+         given={Hadley},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer-Verlag New York}%
+    }
+    \strng{namehash}{WH1}
+    \strng{fullhash}{WH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{year}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{isbn}{978-3-319-24277-4}
+    \field{title}{ggplot2: Elegant Graphics for Data Analysis}
+    \verb{url}
+    \verb https://ggplot2.tidyverse.org
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{scalesPackage}{manual}{}
+    \name{author}{2}{}{%
+      {{hash=WH}{%
+         family={Wickham},
+         familyi={W\bibinitperiod},
+         given={Hadley},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Seidel},
+         familyi={S\bibinitperiod},
+         given={Dana},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WHSD1}
+    \strng{fullhash}{WHSD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{year}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{R package version 1.1.1}
+    \field{title}{scales: Scale Functions for Visualization}
+    \verb{url}
+    \verb https://CRAN.R-project.org/package=scales
+    \endverb
+    \field{year}{2020}
+  \endentry
+
+  \entry{wold87}{article}{}
+    \name{author}{3}{}{%
+      {{hash=WS}{%
+         family={Wold},
+         familyi={W\bibinitperiod},
+         given={Svante},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=EK}{%
+         family={Esbensen},
+         familyi={E\bibinitperiod},
+         given={Kim},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=GP}{%
+         family={Geladi},
+         familyi={G\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{WSEKGP1}
+    \strng{fullhash}{WSEKGP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1987}
+    \field{labeldatesource}{year}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{number}{1-3}
+    \field{pages}{37\bibrangedash 52}
+    \field{title}{Principal component analysis}
+    \field{volume}{2}
+    \field{journaltitle}{Chemometrics and intelligent laboratory systems}
+    \field{year}{1987}
+  \endentry
+
+  \entry{wu12}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WS}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Shaomin},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{WS1}
+    \strng{fullhash}{WS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{year}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{number}{8}
+    \field{pages}{795\bibrangedash 805}
+    \field{title}{Warranty data analysis: A review}
+    \field{volume}{28}
+    \field{journaltitle}{Quality and Reliability Engineering International}
+    \field{year}{2012}
+  \endentry
+\enddatalist
+\endinput

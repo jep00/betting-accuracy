@@ -1,0 +1,1321 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.11.8)  4 MAY 2021 10:00
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**FINAL_DISSO.tex
+(./FINAL_DISSO.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/03/24 v5.7 Page Geometry
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen111
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen112
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count92
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count93
+\leftroot@=\count94
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count95
+\DOTSCASE@=\count96
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen113
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count97
+\c@MaxMatrixCols=\count98
+\dotsspace@=\muskip10
+\c@parentequation=\count99
+\dspbrk@lvl=\count100
+\tag@help=\toks17
+\row@=\count101
+\column@=\count102
+\maxfields@=\count103
+\andhelp@=\toks18
+\eqnshift@=\dimen114
+\alignsep@=\dimen115
+\tagshift@=\dimen116
+\tagwidth@=\dimen117
+\totwidth@=\dimen118
+\lineht@=\dimen119
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/eurosym/eurosym.sty
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box28
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen120
+\Gin@req@width=\dimen121
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/xurl/xurl.sty
+Package: xurl 2018/01/09 v 0.03 modify URL breaks
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen122
+\captionmargin@=\dimen123
+\captionwidth=\dimen124
+\caption@tempdima=\dimen125
+\caption@indent=\dimen126
+\caption@parindent=\dimen127
+\caption@hangindent=\dimen128
+)
+\c@ContinuedFloat=\count104
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip46
+\multirow@cntb=\count105
+\multirow@dima=\skip47
+\bigstrutjot=\dimen129
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count106
+\c@@ppsavesec=\count107
+\c@@ppsaveapp=\count108
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/floatrow/floatrow.sty
+Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
+\c@float@type=\count109
+\float@exts=\toks21
+\float@box=\box29
+\@floatcapt=\box30
+Package floatrow Info: Modified float package code loaded on input line 455.
+Package floatrow Info: Modified rotfloat package code loaded on input line 473.
+
+\FR@everyfloat=\toks22
+\flrow@foot=\insert199
+\FB@wd=\dimen130
+\FBo@wd=\dimen131
+\FBc@wd=\dimen132
+\FBo@ht=\skip48
+\FBc@ht=\skip49
+\FBf@ht=\skip50
+\FBo@max=\skip51
+\FBc@max=\skip52
+\FBf@max=\skip53
+\c@FBl@b=\count110
+\floatbox@depth=\count111
+\c@FRobj=\count112
+\c@FRsobj=\count113
+\Xhsize=\skip54
+\sXhsize=\skip55
+\Zhsize=\skip56
+\sZhsize=\skip57
+\flrow@rowbox=\box31
+\FR@Zunitlength=\dimen133
+\c@FBcnt=\count114
+\FPOScnt=\count115
+\LTleft=\skip58
+\LTright=\skip59
+\LTleft=\skip60
+\LTright=\skip61
+\flrow@types=\toks23
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/arydshln/arydshln.sty
+Package: arydshln 2016/04/28 v1.73 
+\dashlinedash=\dimen134
+\dashlinegap=\dimen135
+\adl@box=\box32
+\adl@height=\dimen136
+\adl@heightsave=\dimen137
+\adl@depth=\dimen138
+\adl@depthsave=\dimen139
+\adl@finaldepth=\dimen140
+\adl@columns=\count116
+\adl@ncol=\count117
+\adl@currentcolumn=\count118
+\adl@currentcolumnsave=\count119
+\adl@totalheight=\count120
+\adl@totalheightsave=\count121
+\adl@dash=\count122
+\adl@gap=\count123
+\adl@cla=\count124
+\adl@clb=\count125
+\adl@everyvbox=\toks24
+\adl@LTpagetotal=\dimen141
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count126
+\calc@Bcount=\count127
+\calc@Adimen=\dimen142
+\calc@Bdimen=\dimen143
+\calc@Askip=\skip62
+\calc@Bskip=\skip63
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count128
+\calc@Cskip=\skip64
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+\AM@pagewidth=\dimen144
+\AM@pageheight=\dimen145
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box33
+\AM@global@opts=\toks25
+\AM@toc@title=\toks26
+\c@AM@survey=\count129
+\AM@templatesizebox=\box34
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+\c@algorithm=\count130
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count131
+\c@ALG@rem=\count132
+\c@ALG@nested=\count133
+\ALG@tlm=\skip65
+\ALG@thistlm=\skip66
+\c@ALG@Lnr=\count134
+\c@ALG@blocknr=\count135
+\c@ALG@storecount=\count136
+\c@ALG@tmpcounter=\count137
+\ALG@tmplength=\skip67
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/csvsimple/csvsimple.sty
+Package: csvsimple 2016/07/01 version 1.20 LaTeX CSV file processing
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks27
+\pgfkeys@temptoks=\toks28
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks29
+))) (/usr/local/texlive/2018/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count138
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
+\csv@file=\read1
+\c@csvinputline=\count139
+\c@csvrow=\count140
+\c@csvcol=\count141
+\csv@out=\write3
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count142
+\lst@gtempboxa=\box35
+\lst@token=\toks30
+\lst@length=\count143
+\lst@currlwidth=\dimen146
+\lst@column=\count144
+\lst@pos=\count145
+\lst@lostspace=\dimen147
+\lst@width=\dimen148
+\lst@newlines=\count146
+\lst@lineno=\count147
+\lst@maxwidth=\dimen149
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count148
+\lst@skipnumbers=\count149
+\lst@framebox=\box36
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip68
+\f@nch@O@elh=\skip69
+\f@nch@O@erh=\skip70
+\f@nch@O@olh=\skip71
+\f@nch@O@orh=\skip72
+\f@nch@O@elf=\skip73
+\f@nch@O@erf=\skip74
+\f@nch@O@olf=\skip75
+\f@nch@O@orf=\skip76
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2018/03/04 v3.11 programmable bibliographies (PK/MW)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count150
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/local/texlive/2018/texmf-dist/tex/generic/xstring/xstring.tex
+\@xs@message=\write4
+\integerpart=\count151
+\decimalpart=\count152
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+\c@tabx@nest=\count153
+\c@listtotal=\count154
+\c@listcount=\count155
+\c@liststart=\count156
+\c@liststop=\count157
+\c@citecount=\count158
+\c@citetotal=\count159
+\c@multicitecount=\count160
+\c@multicitetotal=\count161
+\c@instcount=\count162
+\c@maxnames=\count163
+\c@minnames=\count164
+\c@maxitems=\count165
+\c@minitems=\count166
+\c@citecounter=\count167
+\c@savedcitecounter=\count168
+\c@uniquelist=\count169
+\c@uniquename=\count170
+\c@refsection=\count171
+\c@refsegment=\count172
+\c@maxextratitle=\count173
+\c@maxextratitleyear=\count174
+\c@maxextradate=\count175
+\c@maxextraalpha=\count176
+\c@abbrvpenalty=\count177
+\c@highnamepenalty=\count178
+\c@lownamepenalty=\count179
+\c@maxparens=\count180
+\c@parenlevel=\count181
+\blx@tempcnta=\count182
+\blx@tempcntb=\count183
+\blx@tempcntc=\count184
+\blx@maxsection=\count185
+\blx@maxsegment@0=\count186
+\blx@notetype=\count187
+\blx@parenlevel@text=\count188
+\blx@parenlevel@foot=\count189
+\blx@sectionciteorder@0=\count190
+\labelnumberwidth=\skip77
+\labelalphawidth=\skip78
+\biblabelsep=\skip79
+\bibitemsep=\skip80
+\bibnamesep=\skip81
+\bibinitsep=\skip82
+\bibparsep=\skip83
+\bibhang=\skip84
+\blx@bcfin=\read2
+\blx@bcfout=\write5
+\c@mincomprange=\count191
+\c@maxcomprange=\count192
+\c@mincompwidth=\count193
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2018/03/04 v3.11 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'authoryear.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count194
+\c@savedafterword=\count195
+\c@annotator=\count196
+\c@savedannotator=\count197
+\c@author=\count198
+\c@savedauthor=\count266
+\c@bookauthor=\count267
+\c@savedbookauthor=\count268
+\c@commentator=\count269
+\c@savedcommentator=\count270
+\c@editor=\count271
+\c@savededitor=\count272
+\c@editora=\count273
+\c@savededitora=\count274
+\c@editorb=\count275
+\c@savededitorb=\count276
+\c@editorc=\count277
+\c@savededitorc=\count278
+\c@foreword=\count279
+\c@savedforeword=\count280
+\c@holder=\count281
+\c@savedholder=\count282
+\c@introduction=\count283
+\c@savedintroduction=\count284
+\c@namea=\count285
+\c@savednamea=\count286
+\c@nameb=\count287
+\c@savednameb=\count288
+\c@namec=\count289
+\c@savednamec=\count290
+\c@translator=\count291
+\c@savedtranslator=\count292
+\c@shortauthor=\count293
+\c@savedshortauthor=\count294
+\c@shorteditor=\count295
+\c@savedshorteditor=\count296
+\c@labelname=\count297
+\c@savedlabelname=\count298
+\c@institution=\count299
+\c@savedinstitution=\count300
+\c@lista=\count301
+\c@savedlista=\count302
+\c@listb=\count303
+\c@savedlistb=\count304
+\c@listc=\count305
+\c@savedlistc=\count306
+\c@listd=\count307
+\c@savedlistd=\count308
+\c@liste=\count309
+\c@savedliste=\count310
+\c@listf=\count311
+\c@savedlistf=\count312
+\c@location=\count313
+\c@savedlocation=\count314
+\c@organization=\count315
+\c@savedorganization=\count316
+\c@origlocation=\count317
+\c@savedoriglocation=\count318
+\c@origpublisher=\count319
+\c@savedorigpublisher=\count320
+\c@publisher=\count321
+\c@savedpublisher=\count322
+\c@language=\count323
+\c@savedlanguage=\count324
+\c@origlanguage=\count325
+\c@savedoriglanguage=\count326
+\c@pageref=\count327
+\c@savedpageref=\count328
+\shorthandwidth=\skip85
+\shortjournalwidth=\skip86
+\shortserieswidth=\skip87
+\shorttitlewidth=\skip88
+\shortauthorwidth=\skip89
+\shorteditorwidth=\skip90
+\locallabelnumberwidth=\skip91
+\locallabelalphawidth=\skip92
+\localshorthandwidth=\skip93
+\localshortjournalwidth=\skip94
+\localshortserieswidth=\skip95
+\localshorttitlewidth=\skip96
+\localshortauthorwidth=\skip97
+\localshorteditorwidth=\skip98
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2018/03/04 v3.11 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/blx-bibtex.def
+File: blx-bibtex.def 2018/03/04 v3.11 biblatex compatibility (PK/MW)
+
+
+Package biblatex Warning: Using fall-back BibTeX(8) backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2018/03/04 v3.11 biblatex compatibility (PK/MW)
+\c@textcitecount=\count329
+\c@textcitetotal=\count330
+\c@textcitemaxnames=\count331
+\c@biburlnumpenalty=\count332
+\c@biburlucpenalty=\count333
+\c@biburllcpenalty=\count334
+\c@smartand=\count335
+)
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/bbx/authoryear.bbx
+File: authoryear.bbx 2018/03/04 v3.11 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2018/03/04 v3.11 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count336
+\c@bbx:relatedtotal=\count337
+))
+Package biblatex Info: Trying to load citation style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.cbx' found.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/cbx/authoryear.cbx
+File: authoryear.cbx 2018/03/04 v3.11 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+))
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
+)
+\@quotelevel=\count338
+\@quotereset=\count339
+
+(./FINAL_DISSO.aux)
+\openout1 = `FINAL_DISSO.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(81.94394pt, 433.62pt, 81.94394pt)
+* v-part:(T,H,B)=(106.75473pt, 578.15999pt, 160.13213pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=433.62pt
+* \textheight=578.15999pt
+* \oddsidemargin=9.67395pt
+* \evensidemargin=9.67395pt
+* \topmargin=-2.51526pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count340
+\scratchdimen=\dimen150
+\scratchbox=\box37
+\nofMPsegments=\count341
+\nofMParguments=\count342
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count343
+\MPscratchDim=\dimen151
+\MPnumerator=\count344
+\makeMPintoPDFobject=\count345
+\everyMPtoPDFconversion=\toks32
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: floatrow package is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: floatrow package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box38
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+\c@lstlisting=\count346
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' specified.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+\openout5 = `FINAL_DISSO-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'FINAL_DISSO.bbl' found.
+
+(./FINAL_DISSO.bbl)
+Package biblatex Info: Reference section=0 on input line 75.
+Package biblatex Info: Reference segment=0 on input line 75.
+LaTeX Font Info:    Try loading font information for U+msa on input line 76.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 76.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<writeup/images/00_unilogo.jpg, id=1, 739.8039pt x 512.1534pt>
+File: writeup/images/00_unilogo.jpg Graphic file (type jpg)
+<use writeup/images/00_unilogo.jpg>
+Package pdftex.def Info: writeup/images/00_unilogo.jpg  used on input line 76.
+(pdftex.def)             Requested size: 141.96397pt x 98.28613pt.
+<writeup/images/00_unilogoc.png, id=2, 165.61874pt x 182.18062pt>
+File: writeup/images/00_unilogoc.png Graphic file (type png)
+<use writeup/images/00_unilogoc.png>
+Package pdftex.def Info: writeup/images/00_unilogoc.png  used on input line 76.
+
+(pdftex.def)             Requested size: 89.34938pt x 98.28613pt.
+ [1
+
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./write
+up/images/00_unilogo.jpg> <./writeup/images/00_unilogoc.png>] [1]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 90.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 90.
+ [2]
+(./FINAL_DISSO.toc [3
+
+])
+\tf@toc=\write6
+\openout6 = `FINAL_DISSO.toc'.
+
+ [4] (./FINAL_DISSO.lof [5
+
+])
+\tf@lof=\write7
+\openout7 = `FINAL_DISSO.lof'.
+
+ [6] (./FINAL_DISSO.lot
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <9> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 9.
+LaTeX Font Info:    Try loading font information for U+euf on input line 43.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/ueuf.fd
+File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
+))
+\tf@lot=\write8
+\openout8 = `FINAL_DISSO.lot'.
+
+ [7
+
+] [8]
+(./FINAL_DISSO.loa)
+\tf@loa=\write9
+\openout9 = `FINAL_DISSO.loa'.
+
+ [9
+
+] [10]
+Chapter 1.
+[11
+
+] [12] [13] [14] [15] [16] [17]
+Overfull \hbox (2.31766pt too wide) in paragraph at lines 299--310
+ [] 
+ []
+
+[18] [19]
+Chapter 2.
+[20
+
+]
+<writeup/images/elite_01_idahist.png, id=97, 1777.64125pt x 2132.96875pt>
+File: writeup/images/elite_01_idahist.png Graphic file (type png)
+<use writeup/images/elite_01_idahist.png>
+Package pdftex.def Info: writeup/images/elite_01_idahist.png  used on input lin
+e 389.
+(pdftex.def)             Requested size: 303.53267pt x 364.19467pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[21] [22 <./writeup/images/elite_01_idahist.png>] [23]
+<writeup/images/elite_02_boxplot.png, id=110, 1777.64125pt x 1185.42876pt>
+File: writeup/images/elite_02_boxplot.png Graphic file (type png)
+<use writeup/images/elite_02_boxplot.png>
+Package pdftex.def Info: writeup/images/elite_02_boxplot.png  used on input lin
+e 460.
+(pdftex.def)             Requested size: 346.89731pt x 231.32951pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<writeup/images/elite_02_edadensall.png, id=111, 1777.64125pt x 829.0975pt>
+File: writeup/images/elite_02_edadensall.png Graphic file (type png)
+<use writeup/images/elite_02_edadensall.png>
+Package pdftex.def Info: writeup/images/elite_02_edadensall.png  used on input 
+line 473.
+(pdftex.def)             Requested size: 433.62pt x 202.23877pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[24] [25 <./writeup/images/elite_02_boxplot.png> <./writeup/images/elite_02_eda
+densall.png>]
+<writeup/images/elite_02_edadens.png, id=121, 1777.64125pt x 2132.96875pt>
+File: writeup/images/elite_02_edadens.png Graphic file (type png)
+<use writeup/images/elite_02_edadens.png>
+Package pdftex.def Info: writeup/images/elite_02_edadens.png  used on input lin
+e 500.
+(pdftex.def)             Requested size: 303.53267pt x 364.19467pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[26]
+Overfull \hbox (3.19835pt too wide) in paragraph at lines 509--509
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<writeup/images/elite_05_tile.png, id=125, 1777.64125pt x 1777.64125pt>
+File: writeup/images/elite_05_tile.png Graphic file (type png)
+<use writeup/images/elite_05_tile.png>
+Package pdftex.def Info: writeup/images/elite_05_tile.png  used on input line 5
+22.
+(pdftex.def)             Requested size: 303.53267pt x 303.52412pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[27 <./writeup/images/elite_02_edadens.png>] [28 <./writeup/images/elite_05_til
+e.png>] [29]
+<writeup/images/elite_03_scatter.png, id=137, 1777.64125pt x 1185.42876pt>
+File: writeup/images/elite_03_scatter.png Graphic file (type png)
+<use writeup/images/elite_03_scatter.png>
+Package pdftex.def Info: writeup/images/elite_03_scatter.png  used on input lin
+e 578.
+(pdftex.def)             Requested size: 346.89731pt x 231.32951pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[30]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[31 <./writeup/images/elite_03_scatter.png>] [32] [33] [34] [35]
+<writeup/images/elite_06_seasontimeplot.png, id=160, 2370.8575pt x 2370.8575pt>
+
+File: writeup/images/elite_06_seasontimeplot.png Graphic file (type png)
+<use writeup/images/elite_06_seasontimeplot.png>
+Package pdftex.def Info: writeup/images/elite_06_seasontimeplot.png  used on in
+put line 745.
+(pdftex.def)             Requested size: 325.215pt x 325.189pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[36] [37 <./writeup/images/elite_06_seasontimeplot.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[38]
+<writeup/images/elite_07a_leaguepca.png, id=172, 2370.8575pt x 1185.42876pt>
+File: writeup/images/elite_07a_leaguepca.png Graphic file (type png)
+<use writeup/images/elite_07a_leaguepca.png>
+Package pdftex.def Info: writeup/images/elite_07a_leaguepca.png  used on input 
+line 827.
+(pdftex.def)             Requested size: 346.89731pt x 173.44739pt.
+ [39 <./writeup/images/elite_07a_leaguepca.png>] [40]
+<writeup/images/elite_07b_seasonpca.png, id=180, 2370.8575pt x 1185.42876pt>
+File: writeup/images/elite_07b_seasonpca.png Graphic file (type png)
+<use writeup/images/elite_07b_seasonpca.png>
+Package pdftex.def Info: writeup/images/elite_07b_seasonpca.png  used on input 
+line 872.
+(pdftex.def)             Requested size: 346.89731pt x 173.44739pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[41] [42 <./writeup/images/elite_07b_seasonpca.png>] [43]
+Chapter 3.
+[44
+
+]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[45] [46]
+<writeup/images/ensco_04A_densities.png, id=201, 2370.8575pt x 1777.64125pt>
+File: writeup/images/ensco_04A_densities.png Graphic file (type png)
+<use writeup/images/ensco_04A_densities.png>
+Package pdftex.def Info: writeup/images/ensco_04A_densities.png  used on input 
+line 993.
+(pdftex.def)             Requested size: 390.25534pt x 292.59291pt.
+ [47 <./writeup/images/ensco_04A_densities.png>]
+<writeup/images/ensco_05_hprob_v_hcap.png, id=206, 1777.64125pt x 1185.42876pt>
+
+File: writeup/images/ensco_05_hprob_v_hcap.png Graphic file (type png)
+<use writeup/images/ensco_05_hprob_v_hcap.png>
+Package pdftex.def Info: writeup/images/ensco_05_hprob_v_hcap.png  used on inpu
+t line 1006.
+(pdftex.def)             Requested size: 325.215pt x 216.85898pt.
+<writeup/images/ensco_05a_1x2_v_hcap.png, id=207, 1777.64125pt x 1185.42876pt>
+File: writeup/images/ensco_05a_1x2_v_hcap.png Graphic file (type png)
+<use writeup/images/ensco_05a_1x2_v_hcap.png>
+Package pdftex.def Info: writeup/images/ensco_05a_1x2_v_hcap.png  used on input
+ line 1010.
+(pdftex.def)             Requested size: 325.215pt x 216.85898pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[48 <./writeup/images/ensco_05_hprob_v_hcap.png>]
+Overfull \hbox (3.19835pt too wide) in paragraph at lines 1021--1021
+[][] 
+ []
+
+<writeup/images/ensco_06_tile_1x2.png, id=213, 1777.64125pt x 1185.42876pt>
+File: writeup/images/ensco_06_tile_1x2.png Graphic file (type png)
+<use writeup/images/ensco_06_tile_1x2.png>
+Package pdftex.def Info: writeup/images/ensco_06_tile_1x2.png  used on input li
+ne 1034.
+(pdftex.def)             Requested size: 303.53267pt x 202.40654pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<writeup/images/ensco_07_tile_uo.png, id=214, 1777.64125pt x 1185.42876pt>
+File: writeup/images/ensco_07_tile_uo.png Graphic file (type png)
+<use writeup/images/ensco_07_tile_uo.png>
+Package pdftex.def Info: writeup/images/ensco_07_tile_uo.png  used on input lin
+e 1038.
+(pdftex.def)             Requested size: 303.53267pt x 202.40654pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[49 <./writeup/images/ensco_05a_1x2_v_hcap.png>] [50 <./writeup/images/ensco_06
+_tile_1x2.png> <./writeup/images/ensco_07_tile_uo.png>]
+<writeup/images/ensco_08_handicap_v_over.png, id=225, 1777.64125pt x 1185.42876
+pt>
+File: writeup/images/ensco_08_handicap_v_over.png Graphic file (type png)
+<use writeup/images/ensco_08_handicap_v_over.png>
+Package pdftex.def Info: writeup/images/ensco_08_handicap_v_over.png  used on i
+nput line 1049.
+(pdftex.def)             Requested size: 260.17464pt x 173.48357pt.
+<writeup/images/ensco_09_exp_v_act_goaldiff.png, id=226, 1777.64125pt x 1185.42
+876pt>
+File: writeup/images/ensco_09_exp_v_act_goaldiff.png Graphic file (type png)
+<use writeup/images/ensco_09_exp_v_act_goaldiff.png>
+Package pdftex.def Info: writeup/images/ensco_09_exp_v_act_goaldiff.png  used o
+n input line 1053.
+(pdftex.def)             Requested size: 260.17464pt x 173.48357pt.
+ [51 <./writeup/images/ensco_08_handicap_v_over.png> <./writeup/images/ensco_09
+_exp_v_act_goaldiff.png>] [52] [53]
+<writeup/images/ensco_10_convobs_1x2.png, id=238, 1777.64125pt x 710.655pt>
+File: writeup/images/ensco_10_convobs_1x2.png Graphic file (type png)
+<use writeup/images/ensco_10_convobs_1x2.png>
+Package pdftex.def Info: writeup/images/ensco_10_convobs_1x2.png  used on input
+ line 1092.
+(pdftex.def)             Requested size: 325.215pt x 130.0052pt.
+<writeup/images/ensco_11_convobs_uo.png, id=239, 1777.64125pt x 710.655pt>
+File: writeup/images/ensco_11_convobs_uo.png Graphic file (type png)
+<use writeup/images/ensco_11_convobs_uo.png>
+Package pdftex.def Info: writeup/images/ensco_11_convobs_uo.png  used on input 
+line 1096.
+(pdftex.def)             Requested size: 325.215pt x 130.0052pt.
+<writeup/images/ensco_12_convobs_ah.png, id=240, 1777.64125pt x 710.655pt>
+File: writeup/images/ensco_12_convobs_ah.png Graphic file (type png)
+<use writeup/images/ensco_12_convobs_ah.png>
+Package pdftex.def Info: writeup/images/ensco_12_convobs_ah.png  used on input 
+line 1101.
+(pdftex.def)             Requested size: 325.215pt x 130.0052pt.
+ [54 <./writeup/images/ensco_10_convobs_1x2.png> <./writeup/images/ensco_11_con
+vobs_uo.png> <./writeup/images/ensco_12_convobs_ah.png>] [55]
+<writeup/images/ensco_13_level1.png, id=251, 1777.64125pt x 1185.42876pt>
+File: writeup/images/ensco_13_level1.png Graphic file (type png)
+<use writeup/images/ensco_13_level1.png>
+Package pdftex.def Info: writeup/images/ensco_13_level1.png  used on input line
+ 1142.
+(pdftex.def)             Requested size: 355.57156pt x 237.09964pt.
+<writeup/images/ensco_13_level2.png, id=252, 1777.64125pt x 1185.42876pt>
+File: writeup/images/ensco_13_level2.png Graphic file (type png)
+<use writeup/images/ensco_13_level2.png>
+Package pdftex.def Info: writeup/images/ensco_13_level2.png  used on input line
+ 1146.
+(pdftex.def)             Requested size: 355.57156pt x 237.09964pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<writeup/images/ensco_13_level3.png, id=253, 1777.64125pt x 1185.42876pt>
+File: writeup/images/ensco_13_level3.png Graphic file (type png)
+<use writeup/images/ensco_13_level3.png>
+Package pdftex.def Info: writeup/images/ensco_13_level3.png  used on input line
+ 1150.
+(pdftex.def)             Requested size: 355.57156pt x 237.09964pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[56 <./writeup/images/ensco_13_level1.png>]
+
+LaTeX Warning: Text page 57 contains only floats.
+
+[57 <./writeup/images/ensco_13_level2.png> <./writeup/images/ensco_13_level3.pn
+g>] [58]
+Overfull \hbox (19.45885pt too wide) in paragraph at lines 1167--1203
+ [] 
+ []
+
+<writeup/images/ensco_20_seasontimeplots.png, id=266, 2370.8575pt x 2963.07pt>
+File: writeup/images/ensco_20_seasontimeplots.png Graphic file (type png)
+<use writeup/images/ensco_20_seasontimeplots.png>
+Package pdftex.def Info: writeup/images/ensco_20_seasontimeplots.png  used on i
+nput line 1207.
+(pdftex.def)             Requested size: 433.62pt x 541.92001pt.
+
+LaTeX Warning: Float too large for page by 7.76003pt on input line 1209.
+
+[59] [60 <./writeup/images/ensco_20_seasontimeplots.png>] [61] [62]
+<writeup/images/ensco_14a_overround_ot_l.png, id=281, 2370.8575pt x 1185.42876p
+t>
+File: writeup/images/ensco_14a_overround_ot_l.png Graphic file (type png)
+<use writeup/images/ensco_14a_overround_ot_l.png>
+Package pdftex.def Info: writeup/images/ensco_14a_overround_ot_l.png  used on i
+nput line 1259.
+(pdftex.def)             Requested size: 390.25534pt x 195.117pt.
+<writeup/images/ensco_14b_overround_ot_s.png, id=282, 2370.8575pt x 1185.42876p
+t>
+File: writeup/images/ensco_14b_overround_ot_s.png Graphic file (type png)
+<use writeup/images/ensco_14b_overround_ot_s.png>
+Package pdftex.def Info: writeup/images/ensco_14b_overround_ot_s.png  used on i
+nput line 1263.
+(pdftex.def)             Requested size: 390.25534pt x 195.117pt.
+ [63 <./writeup/images/ensco_14a_overround_ot_l.png> <./writeup/images/ensco_14
+b_overround_ot_s.png>]
+<writeup/images/ensco_14c_overround_uo_l.png, id=288, 2370.8575pt x 1185.42876p
+t>
+File: writeup/images/ensco_14c_overround_uo_l.png Graphic file (type png)
+<use writeup/images/ensco_14c_overround_uo_l.png>
+Package pdftex.def Info: writeup/images/ensco_14c_overround_uo_l.png  used on i
+nput line 1268.
+(pdftex.def)             Requested size: 390.25534pt x 195.117pt.
+<writeup/images/ensco_14d_overround_uo_s.png, id=289, 2370.8575pt x 1185.42876p
+t>
+File: writeup/images/ensco_14d_overround_uo_s.png Graphic file (type png)
+<use writeup/images/ensco_14d_overround_uo_s.png>
+Package pdftex.def Info: writeup/images/ensco_14d_overround_uo_s.png  used on i
+nput line 1272.
+(pdftex.def)             Requested size: 390.25534pt x 195.117pt.
+ [64 <./writeup/images/ensco_14c_overround_uo_l.png> <./writeup/images/ensco_14
+d_overround_uo_s.png>]
+<writeup/images/ensco_14e_overround_ah_l.png, id=295, 2370.8575pt x 1185.42876p
+t>
+File: writeup/images/ensco_14e_overround_ah_l.png Graphic file (type png)
+<use writeup/images/ensco_14e_overround_ah_l.png>
+Package pdftex.def Info: writeup/images/ensco_14e_overround_ah_l.png  used on i
+nput line 1277.
+(pdftex.def)             Requested size: 390.25534pt x 195.117pt.
+<writeup/images/ensco_14f_overround_ah_s.png, id=296, 2370.8575pt x 1185.42876p
+t>
+File: writeup/images/ensco_14f_overround_ah_s.png Graphic file (type png)
+<use writeup/images/ensco_14f_overround_ah_s.png>
+Package pdftex.def Info: writeup/images/ensco_14f_overround_ah_s.png  used on i
+nput line 1281.
+(pdftex.def)             Requested size: 346.89731pt x 173.44739pt.
+ [65 <./writeup/images/ensco_14e_overround_ah_l.png> <./writeup/images/ensco_14
+f_overround_ah_s.png>] [66]
+Chapter 4.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[67
+
+] [68] [69] [70] [71] [72]
+<writeup/images/model_01.png, id=326, 1777.64125pt x 1777.64125pt>
+File: writeup/images/model_01.png Graphic file (type png)
+<use writeup/images/model_01.png>
+Package pdftex.def Info: writeup/images/model_01.png  used on input line 1512.
+(pdftex.def)             Requested size: 433.62pt x 433.61363pt.
+<writeup/images/model_02.png, id=327, 1777.64125pt x 1185.42876pt>
+File: writeup/images/model_02.png Graphic file (type png)
+<use writeup/images/model_02.png>
+Package pdftex.def Info: writeup/images/model_02.png  used on input line 1517.
+(pdftex.def)             Requested size: 346.89731pt x 231.32951pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[73] [74 <./writeup/images/model_01.png>] [75 <./writeup/images/model_02.png>]
+[76]
+<writeup/images/model_05_1x2H.png, id=342, 652.4375pt x 501.875pt>
+File: writeup/images/model_05_1x2H.png Graphic file (type png)
+<use writeup/images/model_05_1x2H.png>
+Package pdftex.def Info: writeup/images/model_05_1x2H.png  used on input line 1
+588.
+(pdftex.def)             Requested size: 281.85034pt x 216.8129pt.
+<writeup/images/model_05_1x2A.png, id=343, 652.4375pt x 501.875pt>
+File: writeup/images/model_05_1x2A.png Graphic file (type png)
+<use writeup/images/model_05_1x2A.png>
+Package pdftex.def Info: writeup/images/model_05_1x2A.png  used on input line 1
+592.
+(pdftex.def)             Requested size: 281.85034pt x 216.8129pt.
+ [77 <./writeup/images/model_05_1x2H.png> <./writeup/images/model_05_1x2A.png>]
+<writeup/images/model_05_AHH.png, id=349, 652.4375pt x 501.875pt>
+File: writeup/images/model_05_AHH.png Graphic file (type png)
+<use writeup/images/model_05_AHH.png>
+Package pdftex.def Info: writeup/images/model_05_AHH.png  used on input line 15
+99.
+(pdftex.def)             Requested size: 281.85034pt x 216.8129pt.
+<writeup/images/model_05_AHA.png, id=350, 652.4375pt x 501.875pt>
+File: writeup/images/model_05_AHA.png Graphic file (type png)
+<use writeup/images/model_05_AHA.png>
+Package pdftex.def Info: writeup/images/model_05_AHA.png  used on input line 16
+03.
+(pdftex.def)             Requested size: 281.85034pt x 216.8129pt.
+ [78 <./writeup/images/model_05_AHH.png> <./writeup/images/model_05_AHA.png>] [
+79]
+Chapter 5.
+[80
+
+] [81] [82] [83]
+Overfull \hbox (65.3758pt too wide) in paragraph at lines 1679--1679
+\OT1/cmtt/m/n/10 company -[] information . service . gov . uk / company / 04241
+161 / filing -[] history / MzI1MjIzNDU1MGFkaXF6a2N4 /
+ []
+
+[84
+
+] [85]
+Overfull \hbox (7.30287pt too wide) in paragraph at lines 1679--1679
+\OT1/cmr/m/n/10 num-bers - and how the on-line sports bet-ting mar-ket is rigge
+d''. In: \OT1/cmr/m/it/10 arXiv preprint arXiv:1710.02824\OT1/cmr/m/n/10 . 
+ []
+
+[86]
+Overfull \hbox (25.23201pt too wide) in paragraph at lines 1679--1679
+[][]\OT1/cmr/m/n/10 Knuth, Kevin H. (2006). ``Op-ti-mal data-based bin-ning for
+ his-tograms''. In: \OT1/cmr/m/it/10 arXiv preprint physics/0605197\OT1/cmr/m/n
+/10 . 
+ []
+
+[87] [88]
+Overfull \hbox (11.82365pt too wide) in paragraph at lines 1679--1679
+[][][]\OT1/cmr/m/n/10 (n.d.[b]). \OT1/cmr/m/it/10 Mem-ber as-so-ci-a-tions\OT1/
+cmr/m/n/10 . \OT1/cmr/m/sc/10 url\OT1/cmr/m/n/10 : $\OT1/cmtt/m/n/10 https : / 
+/ www . uefa . com / insideuefa / member -[] associations/$
+ []
+
+[89] [90
+
+]
+Appendix A.
+[91
+
+] [92] [93]
+Appendix B.
+(./eliteleagues.R [94
+
+] [95] [96] [97] [98] [99] [100] [101] [102] [103]
+[104]) [105]
+Appendix C.
+(./ensco.R [106
+
+] [107] [108] [109] [110] [111] [112] [113] [114] [115] [116]
+[117] [118] [119] [120] [121] [122]) [123]
+Appendix D.
+(./model.R [124
+
+] [125] [126] [127] [128] [129] [130] [131] [132] [133] [134])
+[135]
+Appendix E.
+[136
+
+] [137]
+Appendix F.
+[138
+
+] [139] [140] [141] [142]
+Appendix G.
+[143
+
+]
+Appendix H.
+<writeup/images/Certificate-114620.pdf, id=565, 597.23125pt x 845.1575pt>
+File: writeup/images/Certificate-114620.pdf Graphic file (type pdf)
+<use writeup/images/Certificate-114620.pdf>
+Package pdftex.def Info: writeup/images/Certificate-114620.pdf  used on input l
+ine 1869.
+(pdftex.def)             Requested size: 346.89731pt x 375.21558pt.
+[144
+
+ <./writeup/images/Certificate-114620.pdf>] (./FINAL_DISSO.aux)
+Package logreq Info: Writing requests to 'FINAL_DISSO.run.xml'.
+\openout1 = `FINAL_DISSO.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 17975 strings out of 492649
+ 303435 string characters out of 6129622
+ 691818 words of memory out of 5000000
+ 21537 multiletter control sequences out of 15000+600000
+ 21438 words of font info for 81 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,17n,74p,1827b,2242s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
+></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
+></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb>
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
+usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></us
+r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/
+local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/lo
+cal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loca
+l/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/
+texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/tex
+live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texliv
+e/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2
+018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2018
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2018/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2018/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2018/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2018/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2018/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2018/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2018/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2018/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmtt9.pfb></usr/local/texlive/2018/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmu10.pfb></usr/local/texlive/2018/texmf-dist/fonts
+/type1/public/amsfonts/euler/eufm10.pfb></usr/local/texlive/2018/texmf-dist/fon
+ts/type1/public/eurosym/feymr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/t
+ype1/public/amsfonts/symbols/msbm10.pfb>
+Output written on FINAL_DISSO.pdf (145 pages, 9556163 bytes).
+PDF statistics:
+ 680 PDF objects out of 1000 (max. 8388607)
+ 420 compressed objects within 5 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 197 words of extra memory for PDF output out of 10000 (max. 10000000)
+
